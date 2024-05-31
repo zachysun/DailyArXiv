@@ -13,7 +13,7 @@ core*
 *.p
 *.pickle
 *.pyc
-*.txt
+# *.txt
 
 *.py[cod]
 *$py.class
