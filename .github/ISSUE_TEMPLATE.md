@@ -5,76 +5,95 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](http://arxiv.org/abs/2405.20343v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://wukailu.github.io/Unique3D</p></details> |
-| **[From Zero to Hero: Cold-Start Anomaly Detection](http://arxiv.org/abs/2405.20341v1)** | 2024-05-30 | <details><summary>ACL 2...</summary><p>ACL 2024. Our code is available at https://github.com/talreiss/ColdFusion</p></details> |
 | **[Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes](http://arxiv.org/abs/2405.20342v1)** | 2024-05-30 |  |
-| **[MotionLLM: Understanding Human Behaviors from Human Motions and Videos](http://arxiv.org/abs/2405.20340v1)** | 2024-05-30 | <details><summary>Motio...</summary><p>MotionLLM version 1.0, project page see https://lhchen.top/MotionLLM</p></details> |
-| **[Visual Perception by Large Language Model's Weights](http://arxiv.org/abs/2405.20339v1)** | 2024-05-30 |  |
-| **[Mixed finite element methods for fourth order obstacle problems in linearised elasticity](http://arxiv.org/abs/2405.20338v1)** | 2024-05-30 |  |
-| **[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](http://arxiv.org/abs/2405.20337v1)** | 2024-05-30 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/wzzheng/OccSora</p></details> |
-| **[RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text](http://arxiv.org/abs/2405.20336v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project website: https://vis-www.cs.umass.edu/RapVerse</p></details> |
-| **[Xwin-LM: Strong and Scalable Alignment Practice for LLMs](http://arxiv.org/abs/2405.20335v1)** | 2024-05-30 |  |
-| **[VividDream: Generating 3D Scene with Ambient Dynamics](http://arxiv.org/abs/2405.20334v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://vivid-dream-4d.github.io</p></details> |
-| **[SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos](http://arxiv.org/abs/2405.20333v1)** | 2024-05-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 9 tables, 1 video. Supplementary video available at: https://vimeo.com/951853260</p></details> |
-| **[CoSy: Evaluating Textual Explanations of Neurons](http://arxiv.org/abs/2405.20331v1)** | 2024-05-30 | 10 pages, 5 figures |
-| **[4DHands: Reconstructing Interactive Hands in 4D with Transformers](http://arxiv.org/abs/2405.20330v1)** | 2024-05-30 | <details><summary>More ...</summary><p>More demo videos can be seen at our project page: https://4dhands.github.io</p></details> |
-| **[GECO: Generative Image-to-3D within a SECOnd](http://arxiv.org/abs/2405.20327v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project Page: https://cwchenwang.github.io/geco</p></details> |
-| **[MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion](http://arxiv.org/abs/2405.20325v1)** | 2024-05-30 | <details><summary>23 pa...</summary><p>23 pages, 18 figures. Project page at https://francis-rings.github.io/MotionFollower/</p></details> |
+| **[Neural Networks for Extreme Quantile Regression with an Application to Forecasting of Flood Risk](http://arxiv.org/abs/2208.07590v3)** | 2024-05-30 |  |
+| **[Euclidean mirrors and dynamics in network time series](http://arxiv.org/abs/2205.06877v6)** | 2024-05-30 | <details><summary>36 pa...</summary><p>36 pages, 26 pages of supplementary material and proofs, 12 figures</p></details> |
+| **[Rapid Wildfire Hotspot Detection Using Self-Supervised Learning on Temporal Remote Sensing Data](http://arxiv.org/abs/2405.20093v1)** | 2024-05-30 |  |
+| **[Simultaneous identification of models and parameters of scientific simulators](http://arxiv.org/abs/2305.15174v3)** | 2024-05-30 |  |
+| **[Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations](http://arxiv.org/abs/2405.20082v1)** | 2024-05-30 |  |
+| **[A Random Forest-based Prediction Model for Turning Points in Antagonistic event-group Competitions](http://arxiv.org/abs/2405.20029v1)** | 2024-05-30 |  |
+| **[MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning](http://arxiv.org/abs/2405.19950v1)** | 2024-05-30 |  |
+| **[The ARR2 prior: flexible predictive prior definition for Bayesian auto-regressions](http://arxiv.org/abs/2405.19920v1)** | 2024-05-30 |  |
+| **[A Multi-Branched Radial Basis Network Approach to Predicting Complex Chaotic Behaviours](http://arxiv.org/abs/2404.00618v2)** | 2024-05-30 | 9 pages, 6 figures |
+| **[Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection](http://arxiv.org/abs/2405.19823v1)** | 2024-05-30 | <details><summary>Submi...</summary><p>Submitted to IEEE Signal Processing Letters</p></details> |
+| **[Performance Examination of Symbolic Aggregate Approximation in IoT Applications](http://arxiv.org/abs/2405.19817v1)** | 2024-05-30 | <details><summary>Embed...</summary><p>Embedded World Conference, Nuremberg, 2024</p></details> |
+| **[Latent Factor Analysis in Short Panels](http://arxiv.org/abs/2306.14004v2)** | 2024-05-30 |  |
+| **[Spectral Change Point Estimation for High Dimensional Time Series by Sparse Tensor Decomposition](http://arxiv.org/abs/2305.10656v2)** | 2024-05-30 |  |
+| **[Dynamic feature selection in medical predictive monitoring by reinforcement learning](http://arxiv.org/abs/2405.19729v1)** | 2024-05-30 | preview version |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](http://arxiv.org/abs/2405.20343v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://wukailu.github.io/Unique3D</p></details> |
-| **[From Zero to Hero: Cold-Start Anomaly Detection](http://arxiv.org/abs/2405.20341v1)** | 2024-05-30 | <details><summary>ACL 2...</summary><p>ACL 2024. Our code is available at https://github.com/talreiss/ColdFusion</p></details> |
-| **[Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes](http://arxiv.org/abs/2405.20342v1)** | 2024-05-30 |  |
-| **[MotionLLM: Understanding Human Behaviors from Human Motions and Videos](http://arxiv.org/abs/2405.20340v1)** | 2024-05-30 | <details><summary>Motio...</summary><p>MotionLLM version 1.0, project page see https://lhchen.top/MotionLLM</p></details> |
-| **[Visual Perception by Large Language Model's Weights](http://arxiv.org/abs/2405.20339v1)** | 2024-05-30 |  |
-| **[Mixed finite element methods for fourth order obstacle problems in linearised elasticity](http://arxiv.org/abs/2405.20338v1)** | 2024-05-30 |  |
-| **[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](http://arxiv.org/abs/2405.20337v1)** | 2024-05-30 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/wzzheng/OccSora</p></details> |
-| **[RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text](http://arxiv.org/abs/2405.20336v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project website: https://vis-www.cs.umass.edu/RapVerse</p></details> |
 | **[Xwin-LM: Strong and Scalable Alignment Practice for LLMs](http://arxiv.org/abs/2405.20335v1)** | 2024-05-30 |  |
-| **[VividDream: Generating 3D Scene with Ambient Dynamics](http://arxiv.org/abs/2405.20334v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://vivid-dream-4d.github.io</p></details> |
-| **[SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos](http://arxiv.org/abs/2405.20333v1)** | 2024-05-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 9 tables, 1 video. Supplementary video available at: https://vimeo.com/951853260</p></details> |
-| **[CoSy: Evaluating Textual Explanations of Neurons](http://arxiv.org/abs/2405.20331v1)** | 2024-05-30 | 10 pages, 5 figures |
-| **[4DHands: Reconstructing Interactive Hands in 4D with Transformers](http://arxiv.org/abs/2405.20330v1)** | 2024-05-30 | <details><summary>More ...</summary><p>More demo videos can be seen at our project page: https://4dhands.github.io</p></details> |
-| **[GECO: Generative Image-to-3D within a SECOnd](http://arxiv.org/abs/2405.20327v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project Page: https://cwchenwang.github.io/geco</p></details> |
-| **[MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion](http://arxiv.org/abs/2405.20325v1)** | 2024-05-30 | <details><summary>23 pa...</summary><p>23 pages, 18 figures. Project page at https://francis-rings.github.io/MotionFollower/</p></details> |
+| **[CodeTailor: LLM-Powered Personalized Parsons Puzzles for Engaging Support While Learning Programming](http://arxiv.org/abs/2401.12125v3)** | 2024-05-30 | <details><summary>Accep...</summary><p>Accepted to the Eleventh ACM Conference on Learning @ Scale (L@S 24) as a full paper</p></details> |
+| **[Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains](http://arxiv.org/abs/2402.05140v2)** | 2024-05-30 |  |
+| **[Auto Arena of LLMs: Automating LLM Evaluations with Agent Peer-battles and Committee Discussions](http://arxiv.org/abs/2405.20267v1)** | 2024-05-30 |  |
+| **[One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments](http://arxiv.org/abs/2405.20202v1)** | 2024-05-30 |  |
+| **[Nadine: An LLM-driven Intelligent Social Robot with Affective Capabilities and Human-like Memory](http://arxiv.org/abs/2405.20189v1)** | 2024-05-30 |  |
+| **[Reasoning about concepts with LLMs: Inconsistencies abound](http://arxiv.org/abs/2405.20163v1)** | 2024-05-30 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 3 tables</p></details> |
+| **[Code Repair with LLMs gives an Exploration-Exploitation Tradeoff](http://arxiv.org/abs/2405.17503v2)** | 2024-05-30 |  |
+| **[Text clustering with LLM embeddings](http://arxiv.org/abs/2403.15112v3)** | 2024-05-30 |  |
+| **[PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression](http://arxiv.org/abs/2405.14852v2)** | 2024-05-30 | Preprint |
+| **[Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks](http://arxiv.org/abs/2405.20099v1)** | 2024-05-30 |  |
+| **[ReMatch: Retrieval Enhanced Schema Matching with LLMs](http://arxiv.org/abs/2403.01567v2)** | 2024-05-30 |  |
+| **[The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities](http://arxiv.org/abs/2405.20089v1)** | 2024-05-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2024 (long, main)</p></details> |
+| **[Debating with More Persuasive LLMs Leads to More Truthful Answers](http://arxiv.org/abs/2402.06782v3)** | 2024-05-30 | <details><summary>For c...</summary><p>For code please check: https://github.com/ucl-dark/llm_debate</p></details> |
+| **[PiVe: Prompting with Iterative Verification Improving Graph-based Generative Capability of LLMs](http://arxiv.org/abs/2305.12392v3)** | 2024-05-30 | <details><summary>Our c...</summary><p>Our code and data are at https://github.com/Jiuzhouh/PiVe (accepted to ACL 2024 Findings)</p></details> |
 
 ## Image Restoration
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](http://arxiv.org/abs/2405.20343v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://wukailu.github.io/Unique3D</p></details> |
-| **[From Zero to Hero: Cold-Start Anomaly Detection](http://arxiv.org/abs/2405.20341v1)** | 2024-05-30 | <details><summary>ACL 2...</summary><p>ACL 2024. Our code is available at https://github.com/talreiss/ColdFusion</p></details> |
-| **[Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes](http://arxiv.org/abs/2405.20342v1)** | 2024-05-30 |  |
-| **[MotionLLM: Understanding Human Behaviors from Human Motions and Videos](http://arxiv.org/abs/2405.20340v1)** | 2024-05-30 | <details><summary>Motio...</summary><p>MotionLLM version 1.0, project page see https://lhchen.top/MotionLLM</p></details> |
-| **[Visual Perception by Large Language Model's Weights](http://arxiv.org/abs/2405.20339v1)** | 2024-05-30 |  |
-| **[Mixed finite element methods for fourth order obstacle problems in linearised elasticity](http://arxiv.org/abs/2405.20338v1)** | 2024-05-30 |  |
-| **[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](http://arxiv.org/abs/2405.20337v1)** | 2024-05-30 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/wzzheng/OccSora</p></details> |
-| **[RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text](http://arxiv.org/abs/2405.20336v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project website: https://vis-www.cs.umass.edu/RapVerse</p></details> |
-| **[Xwin-LM: Strong and Scalable Alignment Practice for LLMs](http://arxiv.org/abs/2405.20335v1)** | 2024-05-30 |  |
-| **[VividDream: Generating 3D Scene with Ambient Dynamics](http://arxiv.org/abs/2405.20334v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://vivid-dream-4d.github.io</p></details> |
-| **[SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos](http://arxiv.org/abs/2405.20333v1)** | 2024-05-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 9 tables, 1 video. Supplementary video available at: https://vimeo.com/951853260</p></details> |
-| **[CoSy: Evaluating Textual Explanations of Neurons](http://arxiv.org/abs/2405.20331v1)** | 2024-05-30 | 10 pages, 5 figures |
-| **[4DHands: Reconstructing Interactive Hands in 4D with Transformers](http://arxiv.org/abs/2405.20330v1)** | 2024-05-30 | <details><summary>More ...</summary><p>More demo videos can be seen at our project page: https://4dhands.github.io</p></details> |
-| **[GECO: Generative Image-to-3D within a SECOnd](http://arxiv.org/abs/2405.20327v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project Page: https://cwchenwang.github.io/geco</p></details> |
-| **[MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion](http://arxiv.org/abs/2405.20325v1)** | 2024-05-30 | <details><summary>23 pa...</summary><p>23 pages, 18 figures. Project page at https://francis-rings.github.io/MotionFollower/</p></details> |
+| **[Sharing Key Semantics in Transformer Makes Efficient Image Restoration](http://arxiv.org/abs/2405.20008v1)** | 2024-05-30 | 9 pages |
+| **[All-In-One Medical Image Restoration via Task-Adaptive Routing](http://arxiv.org/abs/2405.19769v1)** | 2024-05-30 | <details><summary>This ...</summary><p>This article has been early accepted by MICCAI 2024</p></details> |
+| **[Blind Image Restoration via Fast Diffusion Inversion](http://arxiv.org/abs/2405.19572v1)** | 2024-05-29 |  |
+| **[Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models](http://arxiv.org/abs/2403.17902v2)** | 2024-05-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, under review</p></details> |
+| **[Decoupled Data Consistency with Diffusion Purification for Image Restoration](http://arxiv.org/abs/2403.06054v5)** | 2024-05-29 |  |
+| **[AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion](http://arxiv.org/abs/2310.10123v5)** | 2024-05-28 |  |
+| **[Fast Samplers for Inverse Problems in Iterative Refinement Models](http://arxiv.org/abs/2405.17673v1)** | 2024-05-27 |  |
+| **[Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models](http://arxiv.org/abs/2405.16475v1)** | 2024-05-26 |  |
+| **[Hierarchical Uncertainty Exploration via Feedforward Posterior Trees](http://arxiv.org/abs/2405.15719v1)** | 2024-05-24 | 32 pages, 21 figures |
+| **[Efficient Degradation-aware Any Image Restoration](http://arxiv.org/abs/2405.15475v1)** | 2024-05-24 |  |
+| **[Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving](http://arxiv.org/abs/2405.15241v1)** | 2024-05-24 |  |
+| **[SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising](http://arxiv.org/abs/2405.01726v5)** | 2024-05-23 |  |
+| **[Efficient Visual State Space Model for Image Deblurring](http://arxiv.org/abs/2405.14343v1)** | 2024-05-23 |  |
+| **[Perceptual Fairness in Image Restoration](http://arxiv.org/abs/2405.13805v1)** | 2024-05-22 |  |
+| **[DARK: Denoising, Amplification, Restoration Kit](http://arxiv.org/abs/2405.12891v1)** | 2024-05-21 |  |
 
-## Diffusion
+## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](http://arxiv.org/abs/2405.20343v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://wukailu.github.io/Unique3D</p></details> |
-| **[From Zero to Hero: Cold-Start Anomaly Detection](http://arxiv.org/abs/2405.20341v1)** | 2024-05-30 | <details><summary>ACL 2...</summary><p>ACL 2024. Our code is available at https://github.com/talreiss/ColdFusion</p></details> |
-| **[Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes](http://arxiv.org/abs/2405.20342v1)** | 2024-05-30 |  |
-| **[MotionLLM: Understanding Human Behaviors from Human Motions and Videos](http://arxiv.org/abs/2405.20340v1)** | 2024-05-30 | <details><summary>Motio...</summary><p>MotionLLM version 1.0, project page see https://lhchen.top/MotionLLM</p></details> |
-| **[Visual Perception by Large Language Model's Weights](http://arxiv.org/abs/2405.20339v1)** | 2024-05-30 |  |
-| **[Mixed finite element methods for fourth order obstacle problems in linearised elasticity](http://arxiv.org/abs/2405.20338v1)** | 2024-05-30 |  |
-| **[OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](http://arxiv.org/abs/2405.20337v1)** | 2024-05-30 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/wzzheng/OccSora</p></details> |
-| **[RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text](http://arxiv.org/abs/2405.20336v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project website: https://vis-www.cs.umass.edu/RapVerse</p></details> |
-| **[Xwin-LM: Strong and Scalable Alignment Practice for LLMs](http://arxiv.org/abs/2405.20335v1)** | 2024-05-30 |  |
 | **[VividDream: Generating 3D Scene with Ambient Dynamics](http://arxiv.org/abs/2405.20334v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project page: https://vivid-dream-4d.github.io</p></details> |
-| **[SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos](http://arxiv.org/abs/2405.20333v1)** | 2024-05-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 9 tables, 1 video. Supplementary video available at: https://vimeo.com/951853260</p></details> |
-| **[CoSy: Evaluating Textual Explanations of Neurons](http://arxiv.org/abs/2405.20331v1)** | 2024-05-30 | 10 pages, 5 figures |
-| **[4DHands: Reconstructing Interactive Hands in 4D with Transformers](http://arxiv.org/abs/2405.20330v1)** | 2024-05-30 | <details><summary>More ...</summary><p>More demo videos can be seen at our project page: https://4dhands.github.io</p></details> |
-| **[GECO: Generative Image-to-3D within a SECOnd](http://arxiv.org/abs/2405.20327v1)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project Page: https://cwchenwang.github.io/geco</p></details> |
 | **[MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion](http://arxiv.org/abs/2405.20325v1)** | 2024-05-30 | <details><summary>23 pa...</summary><p>23 pages, 18 figures. Project page at https://francis-rings.github.io/MotionFollower/</p></details> |
+| **[Don't drop your samples! Coherence-aware training benefits Conditional diffusion](http://arxiv.org/abs/2405.20324v1)** | 2024-05-30 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024 as a Highlight. Project page: https://nicolas-dufour.github.io/cad.html</p></details> |
+| **[Improving the Training of Rectified Flows](http://arxiv.org/abs/2405.20320v1)** | 2024-05-30 |  |
+| **[DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation](http://arxiv.org/abs/2405.20289v1)** | 2024-05-30 |  |
+| **[MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model](http://arxiv.org/abs/2405.20222v1)** | 2024-05-30 |  |
+| **[Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback](http://arxiv.org/abs/2405.20216v1)** | 2024-05-30 | 28 pages, 18 figures |
+| **[MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models](http://arxiv.org/abs/2405.20155v1)** | 2024-05-30 |  |
+| **[DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild](http://arxiv.org/abs/2405.19996v1)** | 2024-05-30 |  |
+| **[DiffPhysBA: Diffusion-based Physical Backdoor Attack against Person Re-Identification in Real-World](http://arxiv.org/abs/2405.19990v1)** | 2024-05-30 |  |
+| **[PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting](http://arxiv.org/abs/2405.19957v1)** | 2024-05-30 |  |
+| **[Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks](http://arxiv.org/abs/2405.19931v1)** | 2024-05-30 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[$E^{3}$Gen: Efficient, Expressive and Editable Avatars Generation](http://arxiv.org/abs/2405.19203v2)** | 2024-05-30 | <details><summary>Proje...</summary><p>Project Page: https://olivia23333.github.io/E3Gen</p></details> |
+| **[Learning from Random Demonstrations: Offline Reinforcement Learning with Importance-Sampled Diffusion Models](http://arxiv.org/abs/2405.19878v1)** | 2024-05-30 |  |
+
+## Vision Language Model
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals](http://arxiv.org/abs/2405.20152v1)** | 2024-05-30 |  |
+| **[OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation](http://arxiv.org/abs/2405.20141v1)** | 2024-05-30 |  |
+| **[Benchmarking and Improving Detail Image Caption](http://arxiv.org/abs/2405.19092v2)** | 2024-05-30 |  |
+| **[Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model](http://arxiv.org/abs/2405.09215v2)** | 2024-05-30 |  |
+| **[Enhancing Large Vision Language Models with Self-Training on Image Comprehension](http://arxiv.org/abs/2405.19716v1)** | 2024-05-30 | <details><summary>19 pa...</summary><p>19 pages, 14 figures, 6 tables</p></details> |
+| **[Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](http://arxiv.org/abs/2312.10160v2)** | 2024-05-30 | ACL 2024 Findings |
+| **[Knowledge-grounded Adaptation Strategy for Vision-language Models: Building Unique Case-set for Screening Mammograms for Residents Training](http://arxiv.org/abs/2405.19675v1)** | 2024-05-30 |  |
+| **[Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding](http://arxiv.org/abs/2405.19567v1)** | 2024-05-29 | <details><summary>Code ...</summary><p>Code available at: https://github.com/AlaaLab/Dr-LLaVA</p></details> |
+| **[Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement](http://arxiv.org/abs/2405.15973v2)** | 2024-05-29 | 15 pages, 8 figures |
+| **[CheXpert Plus: Hundreds of Thousands of Aligned Radiology Texts, Images and Patients](http://arxiv.org/abs/2405.19538v1)** | 2024-05-29 | 13 pages |
+| **[Evaluating Vision-Language Models on Bistable Images](http://arxiv.org/abs/2405.19423v1)** | 2024-05-29 |  |
+| **[Video Anomaly Detection in 10 Years: A Survey and Outlook](http://arxiv.org/abs/2405.19387v1)** | 2024-05-29 |  |
+| **[Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models](http://arxiv.org/abs/2405.19326v1)** | 2024-05-29 |  |
+| **[Matryoshka Query Transformer for Large Vision-Language Models](http://arxiv.org/abs/2405.19315v1)** | 2024-05-29 | <details><summary>Prepr...</summary><p>Preprint. Our code and model are publicly available at https://github.com/gordonhu608/MQT-LLaVA</p></details> |
+| **[MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification](http://arxiv.org/abs/2405.19186v1)** | 2024-05-29 | 18 pages, 8 figures |
 
