@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 31, 2024
+title: Latest 15 Papers - June 03, 2024
 labels: documentation
 ---
 ## Time Series
