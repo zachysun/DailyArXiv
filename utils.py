@@ -46,7 +46,7 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR
         papers.append(paper)
     return papers
 
-def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "stat"]) -> List[Dict[str, str]]:
+def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs"]) -> List[Dict[str, str]]:
     # filtering tags: only keep the papers in target_fileds
     results = []
     for paper in papers:
