@@ -23,7 +23,8 @@ with open("README.md", "r") as f:
         sys.exit("Already updated today!")
 
 keywords = ["Time Series", "LLM", "Image Restoration", 
-            "Diffusion Model", "Vision Language Model"] # TODO add more keywords
+            "Diffusion Model", "Vision Language Model", 
+            "Photoacoustic Image"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
