@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
-keywords = ["Time Series", "LLM", "Image Restoration", 
+keywords = ["Time Series", "Time Series LLM", "Image Restoration", 
             "Diffusion Model", "Vision Language Model", 
             "Photoacoustic Image", "Prompt Optimization"] # TODO add more keywords
 
