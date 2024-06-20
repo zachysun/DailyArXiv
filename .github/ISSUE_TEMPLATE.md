@@ -1,11 +1,30 @@
 ---
-title: Latest 20 Papers - June 20, 2024
+title: Latest 20 Papers - June 21, 2024
 labels: documentation
 ---
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting](http://arxiv.org/abs/2406.07438v2)** | 2024-06-18 | <details><summary>The c...</summary><p>The code is available at https://github.com/ClaudiaShu/DeformTime</p></details> |
+| **[Inference via Interpolation: Contrastive Representations Provably Enable Planning and Inference](http://arxiv.org/abs/2403.04082v2)** | 2024-06-18 | <details><summary>Code:...</summary><p>Code: https://github.com/vivekmyers/contrastive_planning</p></details> |
+| **[TSI-Bench: Benchmarking Time Series Imputation](http://arxiv.org/abs/2406.12747v1)** | 2024-06-18 |  |
+| **[XXLTraffic: Expanding and Extremely Long Traffic Dataset for Ultra-Dynamic Forecasting Challenges](http://arxiv.org/abs/2406.12693v1)** | 2024-06-18 |  |
+| **[Large Language Models Are Zero-Shot Time Series Forecasters](http://arxiv.org/abs/2310.07820v2)** | 2024-06-18 | <details><summary>NeurI...</summary><p>NeurIPS 2023. Code available at: https://github.com/ngruver/llmtime</p></details> |
+| **[Generalization bounds for mixing processes via delayed online-to-PAC conversions](http://arxiv.org/abs/2406.12600v1)** | 2024-06-18 |  |
+| **[Improving the Evaluation and Actionability of Explanation Methods for Multivariate Time Series Classification](http://arxiv.org/abs/2406.12507v1)** | 2024-06-18 |  |
+| **[Frequency-Domain Data-Driven Predictive Control](http://arxiv.org/abs/2406.12498v1)** | 2024-06-18 |  |
+| **[Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis](http://arxiv.org/abs/2406.12438v1)** | 2024-06-18 | <details><summary>10 pa...</summary><p>10 pages, 11 figures, 4 tables</p></details> |
+| **[Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models](http://arxiv.org/abs/2406.12423v1)** | 2024-06-18 |  |
+| **[Foundation Models for Time Series Analysis: A Tutorial and Survey](http://arxiv.org/abs/2403.14735v3)** | 2024-06-18 | <details><summary>In Pr...</summary><p>In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24)</p></details> |
+| **[Spatial-Temporal Large Language Model for Traffic Prediction](http://arxiv.org/abs/2401.10134v3)** | 2024-06-18 | <details><summary>Accep...</summary><p>Accepted by MDM 2024 (Research Track)</p></details> |
+| **[SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2406.12282v1)** | 2024-06-18 | <details><summary>Accep...</summary><p>Accepted at ICDE 2024</p></details> |
+| **[VoCo-LLaMA: Towards Vision Compression with Large Language Models](http://arxiv.org/abs/2406.12275v1)** | 2024-06-18 | 18 pages, 5 figures |
+| **[Self-Supervised Time-Series Anomaly Detection Using Learnable Data Augmentation](http://arxiv.org/abs/2406.12260v1)** | 2024-06-18 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
+| **[TabularFM: An Open Framework For Tabular Foundational Models](http://arxiv.org/abs/2406.09837v2)** | 2024-06-18 |  |
+| **[GMP-AR: Granularity Message Passing and Adaptive Reconciliation for Temporal Hierarchy Forecasting](http://arxiv.org/abs/2406.12242v1)** | 2024-06-18 |  |
+| **[Generative Pretrained Hierarchical Transformer for Time Series Forecasting](http://arxiv.org/abs/2402.16516v2)** | 2024-06-18 | <details><summary>Accep...</summary><p>Accepted by KDD'24 Research Track</p></details> |
+| **[Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers](http://arxiv.org/abs/2406.12199v1)** | 2024-06-18 |  |
+| **[Adaptive Uncertainty Quantification for Trajectory Prediction Under Distributional Shift](http://arxiv.org/abs/2406.12100v1)** | 2024-06-17 | 9 pages, 2 figures |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
@@ -77,6 +96,7 @@ labels: documentation
 | **[SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation](http://arxiv.org/abs/2307.01646v3)** | 2024-06-18 | TMLR 2024 |
 | **[MegActor: Harness the Power of Raw Video for Vivid Portrait Animation](http://arxiv.org/abs/2405.20851v2)** | 2024-06-18 |  |
 | **[Generative Escher Meshes](http://arxiv.org/abs/2309.14564v4)** | 2024-06-17 |  |
+| **[COT Flow: Learning Optimal-Transport Image Sampling and Editing by Contrastive Pairs](http://arxiv.org/abs/2406.12140v1)** | 2024-06-17 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
