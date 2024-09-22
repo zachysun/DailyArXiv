@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 20, 2024
+title: Latest 20 Papers - September 23, 2024
 labels: documentation
 ---
 ## Time Series
@@ -20,7 +20,7 @@ labels: documentation
 | **[Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection](http://arxiv.org/abs/2408.06620v2)** | 2024-09-17 |  |
 | **[Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers](http://arxiv.org/abs/2409.10942v1)** | 2024-09-17 |  |
 | **[Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon](http://arxiv.org/abs/2409.02681v2)** | 2024-09-17 | <details><summary>16 pa...</summary><p>16 pages and 24 figures, in Portuguese language</p></details> |
-| **[Implicit Reasoning in Deep Time Series Forecasting](http://arxiv.org/abs/2409.10840v1)** | 2024-09-17 |  |
+| **[Implicit Reasoning in Deep Time Series Forecasting](http://arxiv.org/abs/2409.10840v2)** | 2024-09-18 |  |
 | **[Causal Learning in Biomedical Applications: A Benchmark](http://arxiv.org/abs/2406.15189v2)** | 2024-09-16 |  |
 | **[TCDformer-based Momentum Transfer Model for Long-term Sports Prediction](http://arxiv.org/abs/2409.10176v1)** | 2024-09-16 | Under reviewing |
 | **[AALF: Almost Always Linear Forecasting](http://arxiv.org/abs/2409.10142v1)** | 2024-09-16 |  |
@@ -44,7 +44,7 @@ labels: documentation
 | **[Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation](http://arxiv.org/abs/2406.07970v3)** | 2024-09-18 | <details><summary>Camer...</summary><p>Camera-ready version of the paper for the Association for Machine Translation in the Americas (AMTA), including the link to the paper's repository</p></details> |
 | **[Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing](http://arxiv.org/abs/2409.11726v1)** | 2024-09-18 | 22 pages, 14 figures |
 | **[Harnessing LLMs for API Interactions: A Framework for Classification and Synthetic Data Generation](http://arxiv.org/abs/2409.11703v1)** | 2024-09-18 |  |
-| **[LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems](http://arxiv.org/abs/2409.11690v1)** | 2024-09-18 | 12 pages |
+| **[LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems](http://arxiv.org/abs/2409.11690v2)** | 2024-09-19 | 12 pages |
 | **[MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning](http://arxiv.org/abs/2406.09044v2)** | 2024-09-18 |  |
 | **[Combating Phone Scams with LLM-based Detection: Where Do We Stand?](http://arxiv.org/abs/2409.11643v1)** | 2024-09-18 | 2 pages, 1 figure |
 | **[BanStereoSet: A Dataset to Measure Stereotypical Social Biases in LLMs for Bangla](http://arxiv.org/abs/2409.11638v1)** | 2024-09-18 |  |
@@ -78,7 +78,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Massively Multi-Person 3D Human Motion Forecasting with Scene Context](http://arxiv.org/abs/2409.12189v1)** | 2024-09-18 | 14 pages, 6 figures |
-| **[LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba](http://arxiv.org/abs/2408.02615v2)** | 2024-09-18 |  |
+| **[LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba](http://arxiv.org/abs/2408.02615v3)** | 2024-09-19 |  |
 | **[MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion](http://arxiv.org/abs/2409.12140v1)** | 2024-09-18 |  |
 | **[Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance](http://arxiv.org/abs/2409.12099v1)** | 2024-09-18 |  |
 | **[Denoising diffusion models for high-resolution microscopy image restoration](http://arxiv.org/abs/2409.12078v1)** | 2024-09-18 |  |
@@ -101,7 +101,7 @@ labels: documentation
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](http://arxiv.org/abs/2409.12191v1)** | 2024-09-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/QwenLM/Qwen2-VL. arXiv admin note: text overlap with arXiv:2408.15262 by other authors</p></details> |
+| **[Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](http://arxiv.org/abs/2409.12191v1)** | 2024-09-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/QwenLM/Qwen2-VL</p></details> |
 | **[A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models](http://arxiv.org/abs/2408.14496v3)** | 2024-09-18 | <details><summary>20 pa...</summary><p>20 pages, 19 figures and 9 tables</p></details> |
 | **[Mixture of Prompt Learning for Vision Language Models](http://arxiv.org/abs/2409.12011v1)** | 2024-09-18 |  |
 | **[GauTOAO: Gaussian-based Task-Oriented Affordance of Objects](http://arxiv.org/abs/2409.11941v1)** | 2024-09-18 | 6 pages |
@@ -110,7 +110,7 @@ labels: documentation
 | **[How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?](http://arxiv.org/abs/2409.02253v2)** | 2024-09-17 |  |
 | **[Image Hijacks: Adversarial Images can Control Generative Models at Runtime](http://arxiv.org/abs/2309.00236v4)** | 2024-09-17 | <details><summary>Proje...</summary><p>Project page at https://image-hijacks.github.io</p></details> |
 | **[SpatialBot: Precise Spatial Understanding with Vision Language Models](http://arxiv.org/abs/2406.13642v6)** | 2024-09-17 |  |
-| **[IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis](http://arxiv.org/abs/2409.10078v2)** | 2024-09-17 |  |
+| **[IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis](http://arxiv.org/abs/2409.10078v3)** | 2024-09-19 |  |
 | **[CAST: Cross-modal Alignment Similarity Test for Vision Language Models](http://arxiv.org/abs/2409.11007v1)** | 2024-09-17 |  |
 | **[KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph](http://arxiv.org/abs/2409.10921v1)** | 2024-09-17 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2024</p></details> |
 | **[Transferable and Principled Efficiency for Open-Vocabulary Segmentation](http://arxiv.org/abs/2404.07448v3)** | 2024-09-17 |  |
