@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 23, 2024
+title: Latest 20 Papers - September 24, 2024
 labels: documentation
 ---
 ## Time Series
@@ -19,7 +19,7 @@ labels: documentation
 | **[Latent mixed-effect models for high-dimensional longitudinal data](http://arxiv.org/abs/2409.11008v1)** | 2024-09-17 | Under review |
 | **[Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection](http://arxiv.org/abs/2408.06620v2)** | 2024-09-17 |  |
 | **[Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers](http://arxiv.org/abs/2409.10942v1)** | 2024-09-17 |  |
-| **[Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon](http://arxiv.org/abs/2409.02681v2)** | 2024-09-17 | <details><summary>16 pa...</summary><p>16 pages and 24 figures, in Portuguese language</p></details> |
+| **[Neural Networks with LSTM and GRU in Modeling Active Fires in the Amazon](http://arxiv.org/abs/2409.02681v3)** | 2024-09-19 | <details><summary>16 pa...</summary><p>16 pages and 24 figures, in Portuguese language</p></details> |
 | **[Implicit Reasoning in Deep Time Series Forecasting](http://arxiv.org/abs/2409.10840v2)** | 2024-09-18 |  |
 | **[Causal Learning in Biomedical Applications: A Benchmark](http://arxiv.org/abs/2406.15189v2)** | 2024-09-16 |  |
 | **[TCDformer-based Momentum Transfer Model for Long-term Sports Prediction](http://arxiv.org/abs/2409.10176v1)** | 2024-09-16 | Under reviewing |
