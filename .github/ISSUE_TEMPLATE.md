@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 24, 2024
+title: Latest 20 Papers - September 25, 2024
 labels: documentation
 ---
 ## Time Series
