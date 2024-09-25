@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 25, 2024
+title: Latest 20 Papers - September 26, 2024
 labels: documentation
 ---
 ## Time Series
@@ -61,7 +61,7 @@ labels: documentation
 | **[Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction](http://arxiv.org/abs/2409.07797v1)** | 2024-09-12 | <details><summary>This ...</summary><p>This paper was accepted by Pattern Recognition on September 5, 2024</p></details> |
 | **[In-Loop Filtering via Trained Look-Up Tables](http://arxiv.org/abs/2407.10926v2)** | 2024-09-11 | 11 pages, 6 figures |
 | **[PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening](http://arxiv.org/abs/2409.06980v1)** | 2024-09-11 |  |
-| **[Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer](http://arxiv.org/abs/2409.06590v1)** | 2024-09-10 | 11 pages,12 figures |
+| **[Lightweight single-image super-resolution network based on dual paths](http://arxiv.org/abs/2409.06590v2)** | 2024-09-24 |  |
 | **[Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement](http://arxiv.org/abs/2409.06334v1)** | 2024-09-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.03249</p></details> |
 | **[AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration](http://arxiv.org/abs/2409.06206v1)** | 2024-09-10 |  |
 | **[Adversarial Purification and Fine-tuning for Robust UDC Image Restoration](http://arxiv.org/abs/2402.13629v2)** | 2024-09-08 |  |
@@ -129,7 +129,7 @@ labels: documentation
 | **[SlingBAG: Sliding ball adaptive growth algorithm with differentiable radiation enables super-efficient iterative 3D photoacoustic image reconstruction](http://arxiv.org/abs/2407.11781v1)** | 2024-07-16 |  |
 | **[Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation](http://arxiv.org/abs/2407.03663v1)** | 2024-07-04 |  |
 | **[Joint Segmentation and Image Reconstruction with Error Prediction in Photoacoustic Imaging using Deep Learning](http://arxiv.org/abs/2407.02653v1)** | 2024-07-02 | 31 pages, 8 figures |
-| **[A study of why we need to reassess full reference image quality assessment with medical images](http://arxiv.org/abs/2405.19097v1)** | 2024-05-29 |  |
+| **[A study of why we need to reassess full reference image quality assessment with medical images](http://arxiv.org/abs/2405.19097v2)** | 2024-09-23 |  |
 | **[GPU-Based Parallel Computing Methods for Medical Photoacoustic Image Reconstruction](http://arxiv.org/abs/2404.10928v1)** | 2024-04-16 |  |
 | **[Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution](http://arxiv.org/abs/2404.07833v1)** | 2024-04-11 |  |
 | **[Distribution-informed and wavelength-flexible data-driven photoacoustic oximetry](http://arxiv.org/abs/2403.14863v1)** | 2024-03-21 | 37 pages, 7 figures |
