@@ -1,10 +1,20 @@
 ---
-title: Latest 20 Papers - November 21, 2024
+title: Latest 20 Papers - November 22, 2024
 labels: documentation
 ---
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisTR: Visualizations as Representations for Time-series Table Reasoning](http://arxiv.org/abs/2406.03753v2)** | 2024-11-20 | 11 pages, 10 figures |
+| **[Conformal Prediction for Hierarchical Data](http://arxiv.org/abs/2411.13479v1)** | 2024-11-20 | 14 pages, 2 figures |
+| **[SynEHRgy: Synthesizing Mixed-Type Structured Electronic Health Records using Decoder-Only Transformers](http://arxiv.org/abs/2411.13428v1)** | 2024-11-20 |  |
+| **[Generation of synthetic gait data: application to multiple sclerosis patients' gait patterns](http://arxiv.org/abs/2411.10377v2)** | 2024-11-20 |  |
+| **[Transformers with Sparse Attention for Granger Causality](http://arxiv.org/abs/2411.13264v1)** | 2024-11-20 |  |
+| **[TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection](http://arxiv.org/abs/2411.11641v2)** | 2024-11-20 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
+| **[Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective](http://arxiv.org/abs/2409.18696v3)** | 2024-11-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
+| **[A Gap in Time: The Challenge of Processing Heterogeneous IoT Data in Digitalized Buildings](http://arxiv.org/abs/2405.14267v2)** | 2024-11-20 | <details><summary>4 fig...</summary><p>4 figures, 1 tables, 9 pages</p></details> |
+| **[Transfer Learning on Transformers for Building Energy Consumption Forecasting -- A Comparative Study](http://arxiv.org/abs/2410.14107v2)** | 2024-11-19 |  |
+| **[Generalized Prompt Tuning: Adapting Frozen Univariate Time Series Foundation Models for Multivariate Healthcare Time Series](http://arxiv.org/abs/2411.12824v1)** | 2024-11-19 | <details><summary>Machi...</summary><p>Machine Learning for Health (ML4H 2024)</p></details> |
 | **[Machine Learning Approaches on Crop Pattern Recognition a Comparative Analysis](http://arxiv.org/abs/2411.12667v1)** | 2024-11-19 | <details><summary>Publi...</summary><p>Published in ICNTET2018: International Conference on New Trends in Engineering & Technology Tirupathi Highway, Tiruvallur Dist Chennai, India, September 7-8, 2018</p></details> |
 | **[Smart Predict-then-Optimize Method with Dependent Data: Risk Bounds and Calibration of Autoregression](http://arxiv.org/abs/2411.12653v1)** | 2024-11-19 | 10 pages |
 | **[A data driven approach to classify descriptors based on their efficiency in translating noisy trajectories into physically-relevant information](http://arxiv.org/abs/2411.12570v1)** | 2024-11-19 | <details><summary>19 pa...</summary><p>19 pages, 5 figures + 3 in supporting information (at the bottom of the manuscript)</p></details> |
@@ -15,49 +25,41 @@ labels: documentation
 | **[Contrast Similarity-Aware Dual-Pathway Mamba for Multivariate Time Series Node Classification](http://arxiv.org/abs/2411.12222v1)** | 2024-11-19 | <details><summary>Submi...</summary><p>Submitted to Knowledge-Based Systems on Nov 17, 2024</p></details> |
 | **[Adaptive Cache Management for Complex Storage Systems Using CNN-LSTM-Based Spatiotemporal Prediction](http://arxiv.org/abs/2411.12161v1)** | 2024-11-19 |  |
 | **[Multi-scale Restoration of Missing Data in Optical Time-series Images with Masked Spatial-Temporal Attention Network](http://arxiv.org/abs/2406.13358v2)** | 2024-11-18 |  |
-| **[Pricing Weather Derivatives: A Time Series Neural Network Approach](http://arxiv.org/abs/2411.12013v1)** | 2024-11-18 |  |
-| **[Fine-Tuning a Time Series Foundation Model with Wasserstein Loss](http://arxiv.org/abs/2409.15367v2)** | 2024-11-18 | <details><summary>4 mai...</summary><p>4 main pages; 2 figures</p></details> |
-| **[TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection](http://arxiv.org/abs/2411.11641v1)** | 2024-11-18 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
-| **[ST-Tree with Interpretability for Multivariate Time Series Classification](http://arxiv.org/abs/2411.11620v1)** | 2024-11-18 | <details><summary>Submi...</summary><p>Submitted on May 15, 2024, major revisions on Aug 31, 2024</p></details> |
-| **[An Open-Source Tool for Mapping War Destruction at Scale in Ukraine using Sentinel-1 Time Series](http://arxiv.org/abs/2406.02506v2)** | 2024-11-18 |  |
-| **[TS-ACL: A Time Series Analytic Continual Learning Framework for Privacy-Preserving and Class-Incremental Pattern Recognition](http://arxiv.org/abs/2410.15954v2)** | 2024-11-18 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 3 tables</p></details> |
-| **[A Hybrid Loss Framework for Decomposition-based Time Series Forecasting Methods: Balancing Global and Component Errors](http://arxiv.org/abs/2411.11340v1)** | 2024-11-18 |  |
-| **[Recurrent Stochastic Configuration Networks with Incremental Blocks](http://arxiv.org/abs/2411.11303v1)** | 2024-11-18 |  |
-| **[Understanding the Role of Textual Prompts in LLM for Time Series Forecasting: an Adapter View](http://arxiv.org/abs/2311.14782v2)** | 2024-11-18 |  |
-| **[DecoR: Deconfounding Time Series with Robust Regression](http://arxiv.org/abs/2406.07005v2)** | 2024-11-18 | 27 pages, 7 figures |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs](http://arxiv.org/abs/2411.13547v1)** | 2024-11-20 |  |
+| **[BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](http://arxiv.org/abs/2411.13543v1)** | 2024-11-20 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback](http://arxiv.org/abs/2411.13410v1)** | 2024-11-20 |  |
+| **[Unification of Balti and trans-border sister dialects in the essence of LLMs and AI Technology](http://arxiv.org/abs/2411.13409v1)** | 2024-11-20 | <details><summary>Accep...</summary><p>Accepted by IEEE conference ISCSLP 2024</p></details> |
+| **[On the Way to LLM Personalization: Learning to Remember User Conversations](http://arxiv.org/abs/2411.13405v1)** | 2024-11-20 | <details><summary>16 pa...</summary><p>16 pages, 6 tables, 3 figures</p></details> |
+| **[Towards Specification-Driven LLM-Based Generation of Embedded Automotive Software](http://arxiv.org/abs/2411.13269v1)** | 2024-11-20 | 21 pages, 2 figures |
+| **[Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM](http://arxiv.org/abs/2411.13159v1)** | 2024-11-20 |  |
+| **[Demystifying RCE Vulnerabilities in LLM-Integrated Apps](http://arxiv.org/abs/2309.02926v3)** | 2024-11-20 |  |
+| **[Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning](http://arxiv.org/abs/2411.13045v1)** | 2024-11-20 | <details><summary>Submi...</summary><p>Submitted to WWW 2025</p></details> |
+| **[HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation](http://arxiv.org/abs/2411.12279v2)** | 2024-11-20 |  |
+| **[LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts](http://arxiv.org/abs/2411.13009v1)** | 2024-11-20 |  |
+| **[Evaluating LLMs Capabilities Towards Understanding Social Dynamics](http://arxiv.org/abs/2411.13008v1)** | 2024-11-20 | <details><summary>To ap...</summary><p>To appear in ASONAM 24 proceedings</p></details> |
+| **[Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods](http://arxiv.org/abs/2411.12103v2)** | 2024-11-20 | 9 pages, 2 figures |
+| **[Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption](http://arxiv.org/abs/2407.18003v4)** | 2024-11-20 | <details><summary>Publi...</summary><p>Published on the First Conference on Language Modeling (COLM 2024)</p></details> |
+| **[LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits](http://arxiv.org/abs/2411.12930v1)** | 2024-11-19 |  |
+| **[Efficient Contextual LLM Cascades through Budget-Constrained Policy Learning](http://arxiv.org/abs/2404.13082v2)** | 2024-11-19 |  |
+| **[ProSec: Fortifying Code LLMs with Proactive Security Alignment](http://arxiv.org/abs/2411.12882v1)** | 2024-11-19 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[The Effect of Scheduling and Preemption on the Efficiency of LLM Inference Serving](http://arxiv.org/abs/2411.07447v2)** | 2024-11-19 |  |
 | **[Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs](http://arxiv.org/abs/2411.12712v1)** | 2024-11-19 | <details><summary>7 Pag...</summary><p>7 Pages, 4 tables and 11 figures. Under review in a IEEE conference</p></details> |
 | **[When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations](http://arxiv.org/abs/2411.12701v1)** | 2024-11-19 |  |
-| **[SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference](http://arxiv.org/abs/2411.12692v1)** | 2024-11-19 |  |
-| **[Is Programming by Example solved by LLMs?](http://arxiv.org/abs/2406.08316v3)** | 2024-11-19 |  |
-| **[Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs](http://arxiv.org/abs/2411.12685v1)** | 2024-11-19 |  |
-| **[Plurals: A System for Guiding LLMs Via Simulated Social Ensembles](http://arxiv.org/abs/2409.17213v5)** | 2024-11-19 |  |
-| **[Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN](http://arxiv.org/abs/2411.00028v2)** | 2024-11-19 |  |
-| **[Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus](http://arxiv.org/abs/2411.12498v1)** | 2024-11-19 | NeurIPS 2024 |
-| **[Zero-shot LLM-guided Counterfactual Generation: A Case Study on NLP Model Evaluation](http://arxiv.org/abs/2405.04793v2)** | 2024-11-19 | <details><summary>Longe...</summary><p>Longer version of short paper accepted at IEEE BigData 2024 (Main Track)</p></details> |
-| **[Do LLMs Understand Ambiguity in Text? A Case Study in Open-world Question Answering](http://arxiv.org/abs/2411.12395v1)** | 2024-11-19 | <details><summary>Accep...</summary><p>Accepted at the REU Symposium at IEEE BigData 2024</p></details> |
-| **[ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems](http://arxiv.org/abs/2410.19572v4)** | 2024-11-19 |  |
-| **[DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding](http://arxiv.org/abs/2411.12355v1)** | 2024-11-19 | 8 pages, 6 figures |
-| **[Multi-Head RAG: Solving Multi-Aspect Problems with LLMs](http://arxiv.org/abs/2406.05085v2)** | 2024-11-19 |  |
-| **[Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for LLM-Powered Dialog Systems in Production](http://arxiv.org/abs/2411.12307v1)** | 2024-11-19 |  |
-| **[Divide-or-Conquer? Which Part Should You Distill Your LLM?](http://arxiv.org/abs/2402.15000v3)** | 2024-11-19 | <details><summary>Findi...</summary><p>Findings of the Association for Computational Linguistics: EMNLP 2024</p></details> |
-| **[Escalating LLM-based Code Translation Benchmarking into the Class-level Era](http://arxiv.org/abs/2411.06145v2)** | 2024-11-19 |  |
-| **[HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation](http://arxiv.org/abs/2411.12279v1)** | 2024-11-19 |  |
-| **[Refusal in LLMs is an Affine Function](http://arxiv.org/abs/2411.09003v2)** | 2024-11-19 | <details><summary>added...</summary><p>added plots for results from additional models</p></details> |
-| **[Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods](http://arxiv.org/abs/2411.12103v1)** | 2024-11-18 | 9 pages, 2 figures |
-| **[Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination](http://arxiv.org/abs/2409.14634v2)** | 2024-11-18 | <details><summary>Revis...</summary><p>Revised TextGRAD results after noting inaccuracies in their reporting</p></details> |
 
 ## Image Restoration
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analysis and Synthesis Denoisers for Forward-Backward Plug-and-Play Algorithms](http://arxiv.org/abs/2411.13276v1)** | 2024-11-20 |  |
+| **[Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration](http://arxiv.org/abs/2312.15701v2)** | 2024-11-20 | <details><summary>Publi...</summary><p>Published in TPAMI 2024</p></details> |
+| **[TSFormer: A Robust Framework for Efficient UHD Image Restoration](http://arxiv.org/abs/2411.10951v2)** | 2024-11-19 |  |
 | **[Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models](http://arxiv.org/abs/2411.12450v1)** | 2024-11-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, has been accepted by the ECCV 2024: AIM workshop</p></details> |
 | **[Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images](http://arxiv.org/abs/2411.12278v1)** | 2024-11-19 | 12 pages, 8 figures |
 | **[Taming Generative Diffusion Prior for Universal Blind Image Restoration](http://arxiv.org/abs/2408.11287v2)** | 2024-11-19 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 8 tables</p></details> |
 | **[HAIR: Hypernetworks-based All-in-One Image Restoration](http://arxiv.org/abs/2408.08091v4)** | 2024-11-18 |  |
-| **[TSFormer: A Robust Framework for Efficient UHD Image Restoration](http://arxiv.org/abs/2411.10951v1)** | 2024-11-17 |  |
 | **[HAT: Hybrid Attention Transformer for Image Restoration](http://arxiv.org/abs/2309.05239v2)** | 2024-11-17 | <details><summary>Exten...</summary><p>Extended version of HAT. arXiv admin note: text overlap with arXiv:2205.04437</p></details> |
 | **[LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration](http://arxiv.org/abs/2410.15385v2)** | 2024-11-16 |  |
 | **[AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations](http://arxiv.org/abs/2411.10708v1)** | 2024-11-16 | 12 pages, 11 figures |
@@ -71,36 +73,42 @@ labels: documentation
 | **[Blind Image Restoration via Fast Diffusion Inversion](http://arxiv.org/abs/2405.19572v2)** | 2024-11-05 | <details><summary>Accep...</summary><p>Accepted to Neurips 2024</p></details> |
 | **[Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration](http://arxiv.org/abs/2411.01656v1)** | 2024-11-03 |  |
 | **[Adversarial Purification and Fine-tuning for Robust UDC Image Restoration](http://arxiv.org/abs/2402.13629v3)** | 2024-11-01 | <details><summary>Failu...</summary><p>Failure to meet expectations</p></details> |
-| **[Fast Samplers for Inverse Problems in Iterative Refinement Models](http://arxiv.org/abs/2405.17673v2)** | 2024-11-01 | <details><summary>43 pa...</summary><p>43 pages, NeurIPS'24 Camera Ready</p></details> |
-| **[Aquatic-GS: A Hybrid 3D Representation for Underwater Scenes](http://arxiv.org/abs/2411.00239v1)** | 2024-10-31 | 13 pages, 7 figures |
 
 ## Diffusion Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using Extremely Compressed Motion Latents](http://arxiv.org/abs/2411.13552v1)** | 2024-11-20 | <details><summary>Code ...</summary><p>Code available at https://github.com/microsoft/Reducio-VAE</p></details> |
+| **[Identity Preserving 3D Head Stylization with Multiview Score Distillation](http://arxiv.org/abs/2411.13536v1)** | 2024-11-20 | <details><summary>https...</summary><p>https://three-bee.github.io/head_stylization</p></details> |
+| **[Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step](http://arxiv.org/abs/2410.14919v3)** | 2024-11-20 |  |
+| **[Heuristically Adaptive Diffusion-Model Evolutionary Strategy](http://arxiv.org/abs/2411.13420v1)** | 2024-11-20 |  |
+| **[Conditional Denoising Diffusion Probabilistic Models for Data Reconstruction Enhancement in Wireless Communications](http://arxiv.org/abs/2310.19460v3)** | 2024-11-20 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2309.08568</p></details> |
+| **[XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation](http://arxiv.org/abs/2411.13243v1)** | 2024-11-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024</p></details> |
+| **[RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation](http://arxiv.org/abs/2411.13150v1)** | 2024-11-20 | <details><summary>Accep...</summary><p>Accepted at WACV 2025</p></details> |
+| **[Erasing Undesirable Influence in Diffusion Models](http://arxiv.org/abs/2401.05779v4)** | 2024-11-20 | <details><summary>Diffu...</summary><p>Diffusion Model, Machine Unlearning</p></details> |
+| **[CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models](http://arxiv.org/abs/2411.13144v1)** | 2024-11-20 |  |
+| **[Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry](http://arxiv.org/abs/2411.13120v1)** | 2024-11-20 | 33 Pages, 6 Figures |
+| **[HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation](http://arxiv.org/abs/2411.12279v2)** | 2024-11-20 |  |
+| **[SparseDM: Toward Sparse Efficient Diffusion Models](http://arxiv.org/abs/2404.10445v3)** | 2024-11-20 |  |
+| **[On Diffusion Models for Multi-Agent Partial Observability: Shared Attractors, Error Bounds, and Composite Flow](http://arxiv.org/abs/2410.13953v2)** | 2024-11-20 |  |
+| **[Time Step Generating: A Universal Synthesized Deepfake Image Detector](http://arxiv.org/abs/2411.11016v2)** | 2024-11-20 | 9 pages, 7 figures |
+| **[From Text to Pose to Image: Improving Diffusion Model Control and Quality](http://arxiv.org/abs/2411.12872v1)** | 2024-11-19 | <details><summary>Publi...</summary><p>Published at the NeurIPS 2024 Workshop on Compositional Learning: Perspectives, Methods, and Paths Forward</p></details> |
+| **[CDI: Copyrighted Data Identification in Diffusion Models](http://arxiv.org/abs/2411.12858v1)** | 2024-11-19 | <details><summary>Coda ...</summary><p>Coda available at https://github.com/sprintml/copyrighted_data_identification</p></details> |
+| **[Towards motion from video diffusion models](http://arxiv.org/abs/2411.12831v1)** | 2024-11-19 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 Workshop :Foundation Models for 3D Humans</p></details> |
+| **[Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors](http://arxiv.org/abs/2410.09467v2)** | 2024-11-19 |  |
+| **[Stylecodes: Encoding Stylistic Information For Image Generation](http://arxiv.org/abs/2411.12811v1)** | 2024-11-19 | <details><summary>code:...</summary><p>code: https://github.com/CiaraStrawberry/stylecodes project page: https://ciarastrawberry.github.io/stylecodes.github.io/. arXiv admin note: substantial text overlap with arXiv:2408.03209</p></details> |
 | **[PoM: Efficient Image and Video Generation with the Polynomial Mixer](http://arxiv.org/abs/2411.12663v1)** | 2024-11-19 |  |
-| **[Improving Controllability and Editability for Pretrained Text-to-Music Generation Models](http://arxiv.org/abs/2411.12641v1)** | 2024-11-19 | PhD Thesis |
-| **[One-step Generative Diffusion for Realistic Extreme Image Rescaling](http://arxiv.org/abs/2408.09151v2)** | 2024-11-19 |  |
-| **[Multistep Consistency Models](http://arxiv.org/abs/2403.06807v3)** | 2024-11-19 |  |
-| **[Data Pruning in Generative Diffusion Models](http://arxiv.org/abs/2411.12523v1)** | 2024-11-19 |  |
-| **[Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models](http://arxiv.org/abs/2411.12450v1)** | 2024-11-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, has been accepted by the ECCV 2024: AIM workshop</p></details> |
-| **[Rethinking cluster-conditioned diffusion models for label-free image synthesis](http://arxiv.org/abs/2403.00570v2)** | 2024-11-19 | <details><summary>Accep...</summary><p>Accepted in WAVC2025 (21 pages, 15 figures). Code is available at https://github.com/HHU-MMBS/cedm-official-wavc2025</p></details> |
-| **[Combinational Backdoor Attack against Customized Text-to-Image Models](http://arxiv.org/abs/2411.12389v1)** | 2024-11-19 |  |
-| **[Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients](http://arxiv.org/abs/2411.10755v2)** | 2024-11-19 | <details><summary>Findi...</summary><p>Findings paper presented at Machine Learning for Health (ML4H) symposium 2024, December 15-16, 2024, Vancouver, Canada, 5 pages</p></details> |
-| **[Scalable and Effective Negative Sample Generation for Hyperedge Prediction](http://arxiv.org/abs/2411.12354v1)** | 2024-11-19 | 11 |
-| **[Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation](http://arxiv.org/abs/2411.11515v2)** | 2024-11-19 |  |
-| **[TFG: Unified Training-Free Guidance for Diffusion Models](http://arxiv.org/abs/2409.15761v2)** | 2024-11-19 |  |
-| **[Diffusion Product Quantization](http://arxiv.org/abs/2411.12306v1)** | 2024-11-19 |  |
-| **[SSEditor: Controllable Mask-to-Scene Generation with Diffusion Model](http://arxiv.org/abs/2411.12290v1)** | 2024-11-19 |  |
-| **[Learning general Gaussian mixtures with efficient score matching](http://arxiv.org/abs/2404.18893v2)** | 2024-11-19 | 57 pages |
-| **[HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation](http://arxiv.org/abs/2411.12279v1)** | 2024-11-19 |  |
-| **[Taming Generative Diffusion Prior for Universal Blind Image Restoration](http://arxiv.org/abs/2408.11287v2)** | 2024-11-19 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 8 tables</p></details> |
-| **[ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](http://arxiv.org/abs/2404.07987v4)** | 2024-11-19 | <details><summary>Camer...</summary><p>Camera Ready Version. Project Page: https://liming-ai.github.io/ControlNet_Plus_Plus Code & Data: https://github.com/liming-ai/ControlNet_Plus_Plus</p></details> |
-| **[Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models](http://arxiv.org/abs/2411.12188v1)** | 2024-11-19 | 33 pages, 9 figures |
-| **[Beyond Perceptual Distances: Rethinking Disparity Assessment for Out-of-Distribution Detection with Diffusion Models](http://arxiv.org/abs/2409.10094v2)** | 2024-11-19 |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](http://arxiv.org/abs/2411.13543v1)** | 2024-11-20 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[Teaching VLMs to Localize Specific Objects from In-context Examples](http://arxiv.org/abs/2411.13317v1)** | 2024-11-20 |  |
+| **[XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation](http://arxiv.org/abs/2411.13243v1)** | 2024-11-20 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2024</p></details> |
+| **[ViSTa Dataset: Do vision-language models understand sequential tasks?](http://arxiv.org/abs/2411.13211v1)** | 2024-11-20 |  |
+| **[MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving](http://arxiv.org/abs/2409.07267v4)** | 2024-11-20 |  |
+| **[TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models](http://arxiv.org/abs/2411.13136v1)** | 2024-11-20 |  |
+| **[VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](http://arxiv.org/abs/2411.12915v1)** | 2024-11-19 |  |
+| **[Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?](http://arxiv.org/abs/2411.04118v2)** | 2024-11-19 | <details><summary>This ...</summary><p>This version was published at EMNLP 2024 Main Conference as a Long Paper (Oral). See the extended version (arXiv:2411.08870) for additional results on QA tasks based on clinical notes and evaluations in the supervised fine-tuning regime</p></details> |
 | **[CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs](http://arxiv.org/abs/2411.12713v1)** | 2024-11-19 |  |
 | **[Reference-free Hallucination Detection for Large Vision-Language Models](http://arxiv.org/abs/2408.05767v2)** | 2024-11-19 |  |
 | **[Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization](http://arxiv.org/abs/2405.15356v2)** | 2024-11-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024. arXiv admin note: text overlap with arXiv:2311.16922 by other authors</p></details> |
@@ -113,14 +121,6 @@ labels: documentation
 | **[MC-LLaVA: Multi-Concept Personalized Vision-Language Model](http://arxiv.org/abs/2411.11706v1)** | 2024-11-18 |  |
 | **[TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World](http://arxiv.org/abs/2411.11683v1)** | 2024-11-18 | <details><summary>Initi...</summary><p>Initial version with preliminary results. We welcome any feedback or suggestions</p></details> |
 | **[SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model](http://arxiv.org/abs/2402.18068v3)** | 2024-11-18 |  |
-| **[VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation](http://arxiv.org/abs/2411.11609v1)** | 2024-11-18 | 15 pages, 9 figures |
-| **[Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment](http://arxiv.org/abs/2411.11543v1)** | 2024-11-18 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2405.13581</p></details> |
-| **[Exploring Emerging Trends and Research Opportunities in Visual Place Recognition](http://arxiv.org/abs/2411.11481v1)** | 2024-11-18 | <details><summary>2 pag...</summary><p>2 pages, 1 figure. 40th Anniversary of the IEEE Conference on Robotics and Automation (ICRA@40), Rotterdam, Netherlands, September 23-26, 2024</p></details> |
-| **[Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts](http://arxiv.org/abs/2411.11479v1)** | 2024-11-18 |  |
-| **[VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](http://arxiv.org/abs/2411.11919v1)** | 2024-11-18 |  |
-| **[Multi-modal Situated Reasoning in 3D Scenes](http://arxiv.org/abs/2409.02389v2)** | 2024-11-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024 Datasets and Benchmarks Track. Project page: https://msr3d.github.io/</p></details> |
-| **[Efficient Transfer Learning for Video-language Foundation Models](http://arxiv.org/abs/2411.11223v1)** | 2024-11-18 |  |
-| **[On-Board Vision-Language Models for Personalized Autonomous Vehicle Motion Control: System Design and Real-World Validation](http://arxiv.org/abs/2411.11913v1)** | 2024-11-17 |  |
 
 ## Photoacoustic Image
 | **Title** | **Date** | **Comment** |
