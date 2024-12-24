@@ -87,10 +87,13 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
         formatted_paper.Title = "**" + "[{0}]({1})".format(paper["Title"], paper["Link"]) + "**"
         ## Process Date (format: 2021-08-01T00:00:00Z -> 2021-08-01)
         formatted_paper.Date = paper["Date"].split("T")[0]
+        ## Process Cool Paper link
+        arxiv_id = paper["Link"].split("/")[-1]
+        formatted_paper["Cool Paper"] = "[🔍](https://papers.cool/arxiv/{})".format(arxiv_id)
         
         # process other columns
         for key in keys:
-            if key in ["Title", "Link", "Date"] or key in ignore_keys:
+            if key in ["Title", "Link", "Date", "Cool Paper"] or key in ignore_keys:
                 continue
             elif key == "Abstract":
                 # add show/hide button for abstract
