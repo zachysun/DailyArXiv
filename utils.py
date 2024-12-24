@@ -70,9 +70,14 @@ def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[st
 def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
     # get papers
     papers = request_paper_with_arXiv_api(keyword, max_result, link) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
-    # NOTE filtering tags: only keep the papers in cs field
-    # TODO filtering more
+    # filtering tags: only keep the papers in cs field
     papers = filter_tags(papers)
+    
+    # Add Cool Paper column before selecting columns
+    for paper in papers:
+        arxiv_id = paper.Link.split("/")[-1]
+        paper["Cool Paper"] = f"https://papers.cool/arxiv/{arxiv_id}"
+    
     # select columns for display
     papers = [{column_name: paper[column_name] for column_name in column_names} for paper in papers]
     return papers
@@ -89,7 +94,7 @@ def generate_table(papers: List[Dict[str, str]], ignore_keys: List[str] = []) ->
         formatted_paper.Date = paper["Date"].split("T")[0]
         ## Process Cool Paper link
         arxiv_id = paper["Link"].split("/")[-1]
-        formatted_paper["Cool Paper"] = "[🔍](https://papers.cool/arxiv/{})".format(arxiv_id)
+        formatted_paper["Cool Paper"] = "[Go](https://papers.cool/arxiv/{})".format(arxiv_id)
         
         # process other columns
         for key in keys:
