@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 26, 2024
+title: Latest 20 Papers - December 27, 2024
 labels: documentation
 ---
 ## Time Series
