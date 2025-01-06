@@ -1,54 +1,54 @@
 ---
-title: Latest 20 Papers - January 06, 2025
+title: Latest 20 Papers - January 07, 2025
 labels: documentation
 ---
 ## Time Series
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[LMS-AutoTSF: Learnable Multi-Scale Decomposition and Integrated Autocorrelation for Time Series Forecasting](http://arxiv.org/abs/2412.06866v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2412.06866v2) |  |
+| **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v3)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2406.12100v3) | 9 pages, 2 figures |
+| **[Time Series Language Model for Descriptive Caption Generation](http://arxiv.org/abs/2501.01832v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01832v1) |  |
+| **[Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction](http://arxiv.org/abs/2501.01087v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01087v2) | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
+| **[Online Data Augmentation for Forecasting with Deep Learning](http://arxiv.org/abs/2404.16918v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2404.16918v2) |  |
+| **[Efficient Deterministic Renewable Energy Forecasting Guided by Multiple-Location Weather Data](http://arxiv.org/abs/2404.17276v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2404.17276v2) | <details><summary>This ...</summary><p>This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in Neural Computing and Applications, and is available online at https://doi.org/10.1007/s00521-024-10607-2</p></details> |
+| **[AVATAR: Adversarial Autoencoders with Autoregressive Refinement for Time Series Generation](http://arxiv.org/abs/2501.01649v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01649v1) | <details><summary>This ...</summary><p>This work has been accepted to the SDM 2025 on December 20, 2024</p></details> |
+| **[Multivariate Time Series Anomaly Detection using DiffGAN Model](http://arxiv.org/abs/2501.01591v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01591v1) | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 1 table</p></details> |
+| **[Unsupervised learning for anticipating critical transitions](http://arxiv.org/abs/2501.01579v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01579v1) | 14 pages, 8 figures |
+| **[AI-Enabled Operations at Fermi Complex: Multivariate Time Series Prediction for Outage Prediction and Diagnosis](http://arxiv.org/abs/2501.01509v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01509v1) | <details><summary>Prese...</summary><p>Presented in the AAAI Workshop on AI for Time Series Analysis 2025</p></details> |
+| **[ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST](http://arxiv.org/abs/2501.01496v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01496v1) | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 9 tables. Submitted to ApJ</p></details> |
 | **[A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models](http://arxiv.org/abs/2501.01394v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01394v1) |  |
 | **[Text2Data: Low-Resource Data Generation with Textual Control](http://arxiv.org/abs/2402.10941v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2402.10941v2) | <details><summary>Thirt...</summary><p>Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)</p></details> |
+| **[Drift2Matrix: Kernel-Induced Self Representation for Concept Drift Adaptation in Co-evolving Time Series](http://arxiv.org/abs/2501.01480v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01480v1) |  |
 | **[Enhanced Differential Testing in Emerging Database Systems](http://arxiv.org/abs/2501.01236v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01236v1) | 10 pages, 6 figures |
-| **[Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction](http://arxiv.org/abs/2501.01087v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01087v1) | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Emerging Topics in Computational Intelligence</p></details> |
 | **[The Sigma-max System Induced from Randomness & Fuzziness and its Application in Time Series Prediction](http://arxiv.org/abs/2110.07722v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2110.07722v2) |  |
 | **[CryptoMamba: Leveraging State Space Models for Accurate Bitcoin Price Prediction](http://arxiv.org/abs/2501.01010v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01010v1) |  |
 | **[Population Aware Diffusion for Time Series Generation](http://arxiv.org/abs/2501.00910v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00910v1) | <details><summary>Accep...</summary><p>Accepted for publication at AAAI-2025, 8 pages</p></details> |
 | **[Evaluating Time Series Foundation Models on Noisy Periodic Time Series](http://arxiv.org/abs/2501.00889v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00889v1) |  |
-| **[Decoding the Flow: CauseMotion for Emotional Causality Analysis in Long-form Conversations](http://arxiv.org/abs/2501.00778v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00778v1) | 7pages |
-| **[ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](http://arxiv.org/abs/2412.03104v2)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2412.03104v2) |  |
-| **[TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis](http://arxiv.org/abs/2402.16412v2)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2402.16412v2) | <details><summary>Accep...</summary><p>Accepted to TMLR (12/24), 33 pages. TMLR link: https://openreview.net/pdf?id=QlTLkH6xRC</p></details> |
-| **[Titans: Learning to Memorize at Test Time](http://arxiv.org/abs/2501.00663v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00663v1) |  |
-| **[Per Subject Complexity in Eye Movement Prediction](http://arxiv.org/abs/2501.00597v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00597v1) | 14 pages |
-| **[STARFormer: A Novel Spatio-Temporal Aggregation Reorganization Transformer of FMRI for Brain Disorder Diagnosis](http://arxiv.org/abs/2501.00378v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00378v1) |  |
-| **[An Unsupervised Anomaly Detection in Electricity Consumption Using Reinforcement Learning and Time Series Forest Based Framework](http://arxiv.org/abs/2501.00107v1)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2501.00107v1) |  |
-| **[Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models](http://arxiv.org/abs/2412.21022v1)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2412.21022v1) |  |
-| **[Graph Mixture of Experts and Memory-augmented Routers for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2412.19108v2)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2412.19108v2) | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Timeseria: an object-oriented time series processing library](http://arxiv.org/abs/2410.09567v3)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2410.09567v3) |  |
-| **[TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2412.20810v1)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2412.20810v1) |  |
-| **[Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning](http://arxiv.org/abs/2412.20790v1)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2412.20790v1) | <details><summary>This ...</summary><p>This paper has been accepted by AAAI-2025 main track</p></details> |
+| **[Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation](http://arxiv.org/abs/2501.01472v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.01472v1) |  |
 
 ## LLM
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap](http://arxiv.org/abs/2501.01945v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01945v1) |  |
+| **[CodeElo: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings](http://arxiv.org/abs/2501.01257v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01257v2) |  |
+| **[Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification](http://arxiv.org/abs/2501.01849v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01849v1) |  |
+| **[Rerouting LLM Routers](http://arxiv.org/abs/2501.01818v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01818v1) |  |
+| **[Efficient LLM Inference with Activation Checkpointing and Hybrid Caching](http://arxiv.org/abs/2501.01792v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01792v1) | 14 pages, 15 figures |
+| **[A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment](http://arxiv.org/abs/2410.23242v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2410.23242v2) | <details><summary>25 pa...</summary><p>25 pages, 4 figures; v2: Added AFMR Acknowledgment</p></details> |
+| **[Automating Legal Concept Interpretation with LLMs: Retrieval, Generation, and Evaluation](http://arxiv.org/abs/2501.01743v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01743v1) |  |
+| **[BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference](http://arxiv.org/abs/2501.01144v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01144v2) |  |
+| **[LLMs & Legal Aid: Understanding Legal Needs Exhibited Through User Queries](http://arxiv.org/abs/2501.01711v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01711v1) | <details><summary>Accep...</summary><p>Accepted at AI for Access to Justice Workshop at Jurix 2024, Brno, Czechia</p></details> |
+| **[HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models](http://arxiv.org/abs/2409.19878v3)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2409.19878v3) | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025</p></details> |
+| **[CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis](http://arxiv.org/abs/2501.01668v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01668v1) |  |
+| **[BARTPredict: Empowering IoT Security with LLM-Driven Cyber Threat Prediction](http://arxiv.org/abs/2501.01664v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01664v1) |  |
+| **[Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection agents](http://arxiv.org/abs/2501.00430v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.00430v2) |  |
+| **[A recent evaluation on the performance of LLMs on radiation oncology physics using questions of randomly shuffled options](http://arxiv.org/abs/2412.10622v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2412.10622v2) |  |
+| **[Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry](http://arxiv.org/abs/2411.15221v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2411.15221v2) | <details><summary>Updat...</summary><p>Updating author information, the submission remains largely unchanged. 98 pages total</p></details> |
+| **[KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](http://arxiv.org/abs/2412.16833v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2412.16833v2) | <details><summary>10 pa...</summary><p>10 pages,5 figures,published to AAAI-25 Bridge Program</p></details> |
+| **[Predicting the Performance of Black-box LLMs through Self-Queries](http://arxiv.org/abs/2501.01558v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01558v1) | 28 pages |
+| **[Enhancing User Engagement in Large-Scale Social Annotation Platforms: Community-Based Design Interventions and Implications for Large Language Models (LLMs)](http://arxiv.org/abs/2501.01545v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01545v1) |  |
 | **[The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation](http://arxiv.org/abs/2501.01329v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01329v1) |  |
 | **[Beyond Numeric Awards: In-Context Dueling Bandits with LLM Agents](http://arxiv.org/abs/2407.01887v3)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2407.01887v3) |  |
-| **[CodeElo: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings](http://arxiv.org/abs/2501.01257v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01257v1) |  |
-| **[Security Attacks on LLM-based Code Completion Tools](http://arxiv.org/abs/2408.11006v4)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2408.11006v4) | <details><summary>Paper...</summary><p>Paper accepted at AAAI 2025</p></details> |
-| **[Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction](http://arxiv.org/abs/2501.01237v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01237v1) |  |
-| **[Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects](http://arxiv.org/abs/2501.01205v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01205v1) |  |
-| **[HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation](http://arxiv.org/abs/2501.01203v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01203v1) |  |
-| **[Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey](http://arxiv.org/abs/2412.20367v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2412.20367v2) |  |
-| **[BlockDialect: Block-wise Fine-grained Mixed Format for Energy-Efficient LLM Inference](http://arxiv.org/abs/2501.01144v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01144v1) |  |
-| **[Text Clustering as Classification with LLMs](http://arxiv.org/abs/2410.00927v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2410.00927v2) | 12 pages, 3 figures |
-| **[Lost-in-Distance: Impact of Contextual Proximity on LLM Performance in Graph Tasks](http://arxiv.org/abs/2410.01985v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2410.01985v2) |  |
-| **[Aligning the Objective of LLM-based Program Repair](http://arxiv.org/abs/2404.08877v4)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2404.08877v4) | Accepted by ICSE'25 |
-| **[FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](http://arxiv.org/abs/2501.01005v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01005v1) | <details><summary>code ...</summary><p>code available at http://github.com/flashinfer-ai/flashinfer</p></details> |
-| **[Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice](http://arxiv.org/abs/2501.00982v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.00982v1) |  |
-| **[What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents](http://arxiv.org/abs/2402.13184v5)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2402.13184v5) |  |
-| **[Generative AI and LLMs in Industry: A text-mining Analysis and Critical Evaluation of Guidelines and Policy Statements Across Fourteen Industrial Sectors](http://arxiv.org/abs/2501.00957v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00957v1) |  |
-| **[Aligning LLMs with Domain Invariant Reward Models](http://arxiv.org/abs/2501.00911v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00911v1) |  |
-| **[An LLM-Empowered Adaptive Evolutionary Algorithm For Multi-Component Deep Learning Systems](http://arxiv.org/abs/2501.00829v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00829v1) | 9 |
-| **[LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](http://arxiv.org/abs/2501.00826v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00826v1) |  |
-| **[SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation](http://arxiv.org/abs/2501.00805v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00805v1) | <details><summary>Accep...</summary><p>Accepted by ICASSP 2025</p></details> |
 
 ## Image Restoration
 | **Title** | **Date** | **Cool Paper** | **Comment** |
@@ -77,6 +77,14 @@ labels: documentation
 ## Diffusion Model
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[InvSeg: Test-Time Prompt Inversion for Semantic Segmentation](http://arxiv.org/abs/2410.11473v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2410.11473v2) | AAAI 2025 |
+| **[Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models](http://arxiv.org/abs/2501.01932v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01932v1) | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 IEEE International Symposium on Biomedical Imaging (ISBI 2025)</p></details> |
+| **[Conditional Consistency Guided Image Translation and Enhancement](http://arxiv.org/abs/2501.01223v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01223v2) | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 4 tables, The first two authors contributed equally</p></details> |
+| **[TryOffAnyone: Tiled Cloth Generation from a Dressed Person](http://arxiv.org/abs/2412.08573v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2412.08573v2) |  |
+| **[Adverse Weather Conditions Augmentation of LiDAR Scenes with Latent Diffusion Models](http://arxiv.org/abs/2501.01761v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01761v1) | <details><summary>This ...</summary><p>This is an intermediate version of our work</p></details> |
+| **[ACE: Anti-Editing Concept Erasure in Text-to-Image Models](http://arxiv.org/abs/2501.01633v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01633v1) | <details><summary>25 pa...</summary><p>25 pages, code available at https://github.com/120L020904/ACE</p></details> |
+| **[On the Multi-modal Vulnerability of Diffusion Models](http://arxiv.org/abs/2402.01369v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2402.01369v2) | <details><summary>Accep...</summary><p>Accepted at ICML2024 Workshop on Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)</p></details> |
+| **[Multivariate Time Series Anomaly Detection using DiffGAN Model](http://arxiv.org/abs/2501.01591v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01591v1) | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 1 table</p></details> |
 | **[Object-level Visual Prompts for Compositional Image Generation](http://arxiv.org/abs/2501.01424v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01424v1) | <details><summary>Proje...</summary><p>Project: https://snap-research.github.io/visual-composer/</p></details> |
 | **[Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](http://arxiv.org/abs/2501.01423v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01423v1) | <details><summary>Model...</summary><p>Models and codes are available at: https://github.com/hustvl/LightningDiT</p></details> |
 | **[GeoDiffuser: Geometry-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2404.14403v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2404.14403v2) | <details><summary>Accep...</summary><p>Accepted to WACV 2025, Tucson, Arizona, USA. For project page, see https://ivl.cs.brown.edu/research/geodiffuser.html</p></details> |
@@ -87,40 +95,32 @@ labels: documentation
 | **[Edicho: Consistent Image Editing in the Wild](http://arxiv.org/abs/2412.21079v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2412.21079v2) | <details><summary>Proje...</summary><p>Project page: https://github.com/EzioBy/edicho</p></details> |
 | **[EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers](http://arxiv.org/abs/2412.20413v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2412.20413v2) | 24 pages, 18 figures |
 | **[Realistic Noise Synthesis with Diffusion Models](http://arxiv.org/abs/2305.14022v4)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2305.14022v4) | Accepted by AAAI25 |
-| **[Conditional Consistency Guided Image Translation and Enhancement](http://arxiv.org/abs/2501.01223v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01223v1) | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 4 tables, ICME conference 2025</p></details> |
 | **[Enhancing Preference-based Linear Bandits via Human Response Time](http://arxiv.org/abs/2409.05798v4)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2409.05798v4) | <details><summary>NeurI...</summary><p>NeurIPS 2024 (Oral) camera ready</p></details> |
 | **[Fast, Scale-Adaptive, and Uncertainty-Aware Downscaling of Earth System Model Fields with Generative Machine Learning](http://arxiv.org/abs/2403.02774v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2403.02774v2) |  |
-| **[Dynamic Negative Guidance of Diffusion Models](http://arxiv.org/abs/2410.14398v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2410.14398v2) | <details><summary>Paper...</summary><p>Paper currently under review. Submitted to ICLR 2025. Our implementation is available at https://github.com/FelixKoulischer/Dynamic-Negative-Guidance.git</p></details> |
-| **[Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission](http://arxiv.org/abs/2501.01138v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01138v1) | <details><summary>13 pa...</summary><p>13 pages, submitted to IEEE for possible publication</p></details> |
-| **[EliGen: Entity-Level Controlled Image Generation with Regional Attention](http://arxiv.org/abs/2501.01097v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01097v1) |  |
-| **[DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations](http://arxiv.org/abs/2501.01066v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01066v1) |  |
-| **[SoloAudio: Target Sound Extraction with Language-oriented Audio Diffusion Transformer](http://arxiv.org/abs/2409.08425v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2409.08425v2) | <details><summary>Submi...</summary><p>Submitted to ICASSP 2025</p></details> |
-| **[Optimizing Noise Schedules of Generative Models in High Dimensionss](http://arxiv.org/abs/2501.00988v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.00988v1) |  |
-| **[Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model](http://arxiv.org/abs/2501.00946v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00946v1) |  |
 
 ## Vision Language Model
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
-| **[GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](http://arxiv.org/abs/2501.01428v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01428v1) | <details><summary>Proje...</summary><p>Project page: https://gpt4scene.github.io/</p></details> |
+| **[Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding](http://arxiv.org/abs/2501.01926v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01926v1) |  |
+| **[TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models](http://arxiv.org/abs/2412.18675v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2412.18675v2) |  |
+| **[MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning](http://arxiv.org/abs/2501.01834v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01834v1) |  |
+| **[2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](http://arxiv.org/abs/2501.00958v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.00958v2) | Under review |
+| **[FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2501.00877v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.00877v2) |  |
+| **[GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](http://arxiv.org/abs/2501.01428v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01428v2) | <details><summary>Proje...</summary><p>Project page: https://gpt4scene.github.io/</p></details> |
+| **[Attribution Analysis Meets Model Editing: Advancing Knowledge Correction in Vision Language Models with VisEdit](http://arxiv.org/abs/2408.09916v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2408.09916v2) | <details><summary>Accep...</summary><p>Accepted by AAAI-2025</p></details> |
+| **[LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](http://arxiv.org/abs/2501.01767v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01767v1) | <details><summary>proje...</summary><p>project page: https://jasonjin34.github.io/logicad.github.io/</p></details> |
+| **[MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders](http://arxiv.org/abs/2501.01709v1)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2501.01709v1) | 11 pages, 5 figures |
+| **[Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment](http://arxiv.org/abs/2411.11543v2)** | 2025-01-03 | [Go](https://papers.cool/arxiv/2411.11543v2) | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2405.13581</p></details> |
 | **[Training Medical Large Vision-Language Models with Abnormal-Aware Feedback](http://arxiv.org/abs/2501.01377v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01377v1) | 16 pages |
 | **[CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering](http://arxiv.org/abs/2501.01371v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01371v1) |  |
 | **[Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability](http://arxiv.org/abs/2501.01346v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01346v1) | 16 pages, 3 figures |
 | **[CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries](http://arxiv.org/abs/2501.01282v1)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2501.01282v1) | <details><summary>Techn...</summary><p>Technical report; 26 pages</p></details> |
 | **[Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation](http://arxiv.org/abs/2412.14487v2)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2412.14487v2) |  |
 | **[VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](http://arxiv.org/abs/2410.05160v3)** | 2025-01-02 | [Go](https://papers.cool/arxiv/2410.05160v3) | Technical Report |
-| **[2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](http://arxiv.org/abs/2501.00958v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00958v1) | Under review |
 | **[Refining Skewed Perceptions in Vision-Language Models through Visual Representations](http://arxiv.org/abs/2405.14030v2)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2405.14030v2) | 10 pages, 8 figures |
 | **[Hierarchical Vision-Language Alignment for Text-to-Image Generation via Diffusion Models](http://arxiv.org/abs/2501.00917v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00917v1) |  |
-| **[FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2501.00877v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00877v1) |  |
 | **[Sketch-MoMa: Teleoperation for Mobile Manipulator via Interpretation of Hand-Drawn Sketches](http://arxiv.org/abs/2412.19153v2)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2412.19153v2) | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Project Page: https://toyotafrc.github.io/SketchMoMa-Proj</p></details> |
 | **[IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models](http://arxiv.org/abs/2501.00848v1)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2501.00848v1) |  |
-| **[AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation](http://arxiv.org/abs/2403.13352v6)** | 2025-01-01 | [Go](https://papers.cool/arxiv/2403.13352v6) | <details><summary>Accep...</summary><p>Accepted by AAAI-2025</p></details> |
-| **[ICONS: Influence Consensus for Vision-Language Data Selection](http://arxiv.org/abs/2501.00654v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00654v1) | 25 pages, 19 figures |
-| **[Probing Visual Language Priors in VLMs](http://arxiv.org/abs/2501.00569v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00569v1) |  |
-| **[Differentiable Prompt Learning for Vision Language Models](http://arxiv.org/abs/2501.00457v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00457v1) |  |
-| **[Predicate Invention from Pixels via Pretrained Vision-Language Models](http://arxiv.org/abs/2501.00296v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00296v1) | <details><summary>Works...</summary><p>Workshop on Planning in the Era of LLMs (LM4Plan @ AAAI 2025)</p></details> |
-| **[Dual Diffusion for Unified Image Generation and Understanding](http://arxiv.org/abs/2501.00289v1)** | 2024-12-31 | [Go](https://papers.cool/arxiv/2501.00289v1) |  |
-| **[Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model](http://arxiv.org/abs/2412.21080v1)** | 2024-12-30 | [Go](https://papers.cool/arxiv/2412.21080v1) |  |
 
 ## Photoacoustic Image
 | **Title** | **Date** | **Cool Paper** | **Comment** |
