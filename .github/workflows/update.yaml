@@ -39,7 +39,7 @@ jobs:
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
         name: zachysun
-        email: 1754976743@qq.com
+        email: zachysun@follow.re
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
