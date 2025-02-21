@@ -23,7 +23,7 @@ with open("README.md", "r") as f:
         sys.exit("Already updated today!")
 
 keywords = ["Time Series", "LLM", "Image Restoration", 
-            "Diffusion Model", "Vision Language Model", 
+            "Diffusion Model", "Multimodal",
             "Photoacoustic Image"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
