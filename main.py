@@ -41,14 +41,9 @@ f_rm = open("README.md", "w") # file for README.md
 f_rm.write("# Daily Papers\n")
 f_rm.write("The project automatically fetches the latest papers from arXiv based on keywords.\n\nThe subheadings in the README file represent the search keywords.\n\nOnly the most recent articles for each keyword are retained, up to a maximum of 100 papers.\n\n")
 f_rm.write("You can click the 'Watch' button to receive daily email notifications.\n\n")
-f_rm.write("""
-           Or you can fork this repository and set your own key words in `main.py`:\n
-            ```python
-            keywords = ["your-keyword-1", "your-keyword-2", "..."]
-            ```
-           """)
+f_rm.write("Or you can fork this repository and set your own key words in `main.py`:\n\n")
 f_rm.write("Last update: {0}\n\n".format(current_date))
-f_rm.write("👍Thanks to [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) and [Cool Paper](https://papers.cool).")
+f_rm.write("👍Thanks to [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) and [Cool Paper](https://papers.cool).\n\n")
 
 f_rm.write("## Index\n\n")
 for keyword in keywords:
