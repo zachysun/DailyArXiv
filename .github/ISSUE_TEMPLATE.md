@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 20, 2025
+title: Latest 20 Papers - June 23, 2025
 labels: documentation
 ---
 ## Time Series
