@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 02, 2025
+title: Latest 20 Papers - September 03, 2025
 labels: documentation
 ---
 ## Time Series
@@ -30,6 +30,25 @@ labels: documentation
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
 | **[ROSE: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning](http://arxiv.org/abs/2412.00631v2)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2412.00631v2) | EMNLP 2025 Findings |
+| **[Active Domain Knowledge Acquisition with 100-Dollar Budget: Enhancing LLMs via Cost-Efficient, Expert-Involved Interaction in Sensitive Domains](http://arxiv.org/abs/2508.17202v2)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.17202v2) | EMNLP 2025 Findings |
+| **[Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture](http://arxiv.org/abs/2508.21803v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21803v1) | <details><summary>Accep...</summary><p>Accepted to The 16th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025)(Poster Paper)</p></details> |
+| **[DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors](http://arxiv.org/abs/2508.21801v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21801v1) | 8 pages, 5 figures |
+| **[Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective](http://arxiv.org/abs/2506.19028v4)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2506.19028v4) | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 15 tables</p></details> |
+| **[BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens](http://arxiv.org/abs/2508.17196v2)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.17196v2) |  |
+| **[Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback](http://arxiv.org/abs/2507.15066v3)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2507.15066v3) | <details><summary>Under...</summary><p>Under review. 19 pages, 8 figures, 12 tables. Code and dataset are publicly available</p></details> |
+| **[Robustness is Important: Limitations of LLMs for Data Fitting](http://arxiv.org/abs/2508.19563v2)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.19563v2) |  |
+| **[Personality Matters: User Traits Predict LLM Preferences in Multi-Turn Collaborative Tasks](http://arxiv.org/abs/2508.21628v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21628v1) | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference</p></details> |
+| **[Middo: Model-Informed Dynamic Data Optimization for Enhanced LLM Fine-Tuning via Closed-Loop Learning](http://arxiv.org/abs/2508.21589v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21589v1) | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 (main)</p></details> |
+| **[Summarize-Exemplify-Reflect: Data-driven Insight Distillation Empowers LLMs for Few-shot Tabular Classification](http://arxiv.org/abs/2508.21561v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21561v1) | EMNLP 25 Findings |
+| **[HealthProcessAI: A Technical Framework and Proof-of-Concept for LLM-Enhanced Healthcare Process Mining](http://arxiv.org/abs/2508.21540v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21540v1) |  |
+| **[Accept or Deny? Evaluating LLM Fairness and Performance in Loan Approval across Table-to-Text Serialization Approaches](http://arxiv.org/abs/2508.21512v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21512v1) |  |
+| **[Testing Conviction: An Argumentative Framework for Measuring LLM Political Stability](http://arxiv.org/abs/2504.17052v2)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2504.17052v2) | 14 pages, 8 figures |
+| **[Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards](http://arxiv.org/abs/2508.21476v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21476v1) | EMNLP 2025 Main |
+| **[Publish to Perish: Prompt Injection Attacks on LLM-Assisted Peer Review](http://arxiv.org/abs/2508.20863v2)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.20863v2) |  |
+| **[From Canonical to Complex: Benchmarking LLM Capabilities in Undergraduate Thermodynamics](http://arxiv.org/abs/2508.21452v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21452v1) | <details><summary>Bench...</summary><p>Benchmark downloadable at https://huggingface.co/datasets/herteltm/UTQA</p></details> |
+| **[The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management](http://arxiv.org/abs/2508.21433v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21433v1) |  |
+| **[An Empirical Study of Vulnerable Package Dependencies in LLM Repositories](http://arxiv.org/abs/2508.21417v1)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2508.21417v1) |  |
+| **[MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness](http://arxiv.org/abs/2504.21773v3)** | 2025-08-29 | [Go](https://papers.cool/arxiv/2504.21773v3) | <details><summary>We re...</summary><p>We release our code and resource at https://github.com/no-touch-fish/Multi-QA-Tuning. The paper is accepted into EMNLP 2025 main</p></details> |
 
 ## Image Restoration
 | **Title** | **Date** | **Cool Paper** | **Comment** |
