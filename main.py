@@ -22,9 +22,11 @@ with open("README.md", "r") as f:
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
-keywords = ["Time Series", "LLM", "Image Restoration", 
-            "Diffusion Model", "Multimodal",
-            "Photoacoustic Image"] # TODO add more keywords
+# keywords = ["Time Series", "LLM", "Image Restoration", 
+#             "Diffusion Model", "Multimodal",
+#             "Photoacoustic Image"] # TODO add more keywords
+
+keywords = ["LLM", "Multimodal", "AI Agent", "LLM Inference"]
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
