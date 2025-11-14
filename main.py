@@ -26,7 +26,7 @@ with open("README.md", "r") as f:
 #             "Diffusion Model", "Multimodal",
 #             "Photoacoustic Image"] # TODO add more keywords
 
-keywords = ["LLM", "Multimodal", "AI Agent", "LLM Inference"]
+keywords = ["LLM", "Multimodal", "AI Agent", "LLM Inference", "LLM Memory"]
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 20 # maximum papers to be included in the issue
