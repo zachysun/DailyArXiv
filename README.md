@@ -9,7 +9,7 @@ You can click the 'Watch' button to receive daily email notifications.
 
 Or you can fork this repository and set your own key words in `main.py`:
 
-Last update: 2025-11-28
+Last update: 2025-12-01
 
 👍Thanks to [zezhishao/DailyArXiv](https://github.com/zezhishao/DailyArXiv) and [Cool Paper](https://papers.cool).
 
