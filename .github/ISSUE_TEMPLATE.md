@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 26, 2025
+title: Latest 20 Papers - December 29, 2025
 labels: documentation
 ---
 ## LLM
