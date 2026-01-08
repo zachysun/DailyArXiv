@@ -1,58 +1,63 @@
 ---
-title: Latest 20 Papers - January 08, 2026
+title: Latest 20 Papers - January 09, 2026
 labels: documentation
 ---
 ## LLM
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
-| **[NavAI: A Generalizable LLM Framework for Navigation Tasks in Virtual Reality Environments](https://arxiv.org/abs/2601.03251v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03251v1) |  |
-| **[Characterizing the Robustness of Black-Box LLM Planners Under Perturbed Observations with Adaptive Stress Testing](https://arxiv.org/abs/2505.05665v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2505.05665v3) | <details><summary>30 pa...</summary><p>30 pages, 24 figures, 6 tables</p></details> |
-| **[STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://arxiv.org/abs/2601.03248v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03248v1) | <details><summary>prepr...</summary><p>preprint, we release our code publicly at https://github.com/LingFengGold/STReasoner</p></details> |
-| **[UltraLogic: Enhancing LLM Reasoning through Large-Scale Data Synthesis and Bipolar Float Reward](https://arxiv.org/abs/2601.03205v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03205v1) | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 7 tables</p></details> |
-| **[X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework](https://arxiv.org/abs/2601.03194v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03194v1) | <details><summary>Accep...</summary><p>Accepted in the proceedings of AAAI 2026</p></details> |
-| **[Leveraging the true depth of LLMs](https://arxiv.org/abs/2502.02790v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2502.02790v3) |  |
-| **[Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning](https://arxiv.org/abs/2601.03190v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03190v1) |  |
-| **[Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising](https://arxiv.org/abs/2510.15125v2)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2510.15125v2) | Under-submission |
-| **[DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation](https://arxiv.org/abs/2601.03178v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03178v1) | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[EviRerank: Adaptive Evidence Construction for Long-Document LLM Reranking](https://arxiv.org/abs/2411.06254v5)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2411.06254v5) |  |
-| **[PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned LLMs and Rule Grounded Feedback](https://arxiv.org/abs/2601.03149v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03149v1) |  |
-| **[Accurate Table Question Answering with Accessible LLMs](https://arxiv.org/abs/2601.03137v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03137v1) | <details><summary>accep...</summary><p>accepted for publication in the Proceedings of the IEEE International Conference on Data Engineering (ICDE) 2026</p></details> |
-| **[The Anatomy of Conversational Scams: A Topic-Based Red Teaming Analysis of Multi-Turn Interactions in LLMs](https://arxiv.org/abs/2601.03134v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03134v1) |  |
-| **[Agent.xpu: Efficient Scheduling of Agentic LLM Workloads on Heterogeneous SoC](https://arxiv.org/abs/2506.24045v2)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2506.24045v2) |  |
-| **[ToxiGAN: Toxic Data Augmentation via LLM-Guided Directional Adversarial Generation](https://arxiv.org/abs/2601.03121v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03121v1) | <details><summary>This ...</summary><p>This paper has been accepted to the main conference of EACL 2026</p></details> |
-| **[Awakening LLMs' Reasoning Potential: A Fine-Grained Pipeline to Evaluate and Mitigate Vague Perception](https://arxiv.org/abs/2507.16199v5)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2507.16199v5) |  |
-| **[Who Laughs with Whom? Disentangling Influential Factors in Humor Preferences across User Clusters and LLMs](https://arxiv.org/abs/2601.03103v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03103v1) |  |
-| **[Quantifying LLM Biases Across Instruction Boundary in Mixed Question Forms](https://arxiv.org/abs/2509.20278v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2509.20278v3) |  |
-| **[ATLAS: Adaptive Test-Time Latent Steering with External Verifiers for Enhancing LLMs Reasoning](https://arxiv.org/abs/2601.03093v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03093v1) | 12 pages, 3 figures |
-| **[Grad-ELLM: Gradient-based Explanations for Decoder-only LLMs](https://arxiv.org/abs/2601.03089v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03089v1) |  |
+| **[Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions](https://arxiv.org/abs/2601.04170v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04170v1) |  |
+| **[Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303v4)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2506.06303v4) |  |
+| **[SearchAttack: Red-Teaming LLMs against Real-World Threats via Framing Unsafe Web Information-Seeking Tasks](https://arxiv.org/abs/2601.04093v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04093v1) | <details><summary>We fi...</summary><p>We find that the key to jailbreak the LLM is objectifying its safety responsibility, thus we delegate the open-web to inject harmful semantics and get the huge gain from unmoderated web resources</p></details> |
+| **[KDCM: Reducing Hallucination in LLMs through Explicit Reasoning Structures](https://arxiv.org/abs/2601.04086v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04086v1) |  |
+| **[User Perceptions of Privacy and Helpfulness in LLM Responses to Privacy-Sensitive Scenarios](https://arxiv.org/abs/2510.20721v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2510.20721v2) |  |
+| **[Talk Less, Verify More: Improving LLM Assistants with Semantic Checks and Execution Feedback](https://arxiv.org/abs/2601.00224v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.00224v2) | <details><summary>WITS ...</summary><p>WITS 2025 (Workshop on Information Technologies and Systems 2025)</p></details> |
+| **[Benchmark^2: Systematic Evaluation of LLM Benchmarks](https://arxiv.org/abs/2601.03986v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03986v1) |  |
+| **[VISTA: Mitigating Semantic Inertia in Video-LLMs via Training-Free Dynamic Chain-of-Thought Routing](https://arxiv.org/abs/2505.11830v3)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2505.11830v3) | 19 pages, 7 figures |
+| **[Understanding Specification-Driven Code Generation with LLMs: An Empirical Study Design](https://arxiv.org/abs/2601.03878v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03878v1) | <details><summary>This ...</summary><p>This paper is a Stage 1 Registered Report. The study protocol and analysis plan were peer reviewed and accepted at SANER 2026 with a Continuity Acceptance (CA) score for Stage 2</p></details> |
+| **[Understanding New-Knowledge-Induced Factual Hallucinations in LLMs: Analysis and Interpretation](https://arxiv.org/abs/2511.02626v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2511.02626v2) |  |
+| **[Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts](https://arxiv.org/abs/2508.10390v3)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2508.10390v3) |  |
+| **[What Does Loss Optimization Actually Teach, If Anything? Knowledge Dynamics in Continual Pre-training of LLMs](https://arxiv.org/abs/2601.03858v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03858v1) |  |
+| **[Once Upon a Team: Investigating Bias in LLM-Driven Software Team Composition and Task Allocation](https://arxiv.org/abs/2601.03857v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03857v1) |  |
+| **[When Numbers Start Talking: Implicit Numerical Coordination Among LLM-Based Agents](https://arxiv.org/abs/2601.03846v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03846v1) |  |
+| **[VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic Reasoning](https://arxiv.org/abs/2501.14540v3)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2501.14540v3) | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
+| **[Can LLMs Track Their Output Length? A Dynamic Feedback Mechanism for Precise Length Regulation](https://arxiv.org/abs/2601.01768v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.01768v2) |  |
+| **[From Brute Force to Semantic Insight: Performance-Guided Data Transformation Design with LLMs](https://arxiv.org/abs/2601.03808v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03808v1) |  |
+| **[Do LLMs Really Memorize Personally Identifiable Information? Revisiting PII Leakage with a Cue-Controlled Memorization Framework](https://arxiv.org/abs/2601.03791v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03791v1) | 20 pages, 13 figures |
+| **[Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents](https://arxiv.org/abs/2601.03785v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03785v1) |  |
+| **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v3)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2505.22156v3) | 18 pages,5 figures |
 
 ## Multimodal
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[Pixel-Wise Multimodal Contrastive Learning for Remote Sensing Images](https://arxiv.org/abs/2601.04127v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04127v1) | 21 pages, 9 Figures |
+| **[Analyzing Reasoning Consistency in Large Multimodal Models under Cross-Modal Conflicts](https://arxiv.org/abs/2601.04073v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04073v1) | 10 pages, 5 figures |
+| **[Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion](https://arxiv.org/abs/2601.04056v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04056v1) | 10 pages, 5 figures |
+| **[When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life](https://arxiv.org/abs/2601.04043v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.04043v1) |  |
+| **[MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning](https://arxiv.org/abs/2512.23412v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2512.23412v2) | Technique Report |
+| **[MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](https://arxiv.org/abs/2506.14435v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2506.14435v2) | Work in progress |
+| **[ViMoNet: A Multimodal Vision-Language Framework for Human Behavior Understanding from Motion and Video](https://arxiv.org/abs/2508.09818v3)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2508.09818v3) | <details><summary>This ...</summary><p>This is the preprint version of the manuscript. It is currently being prepared for submission to an academic conference</p></details> |
+| **[Faithful-First Reasoning, Planning, and Acting for Multimodal LLMs](https://arxiv.org/abs/2511.08409v3)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2511.08409v3) | <details><summary>16 pa...</summary><p>16 pages, updated version</p></details> |
+| **[MGPC: Multimodal Network for Generalizable Point Cloud Completion With Modality Dropout and Progressive Decoding](https://arxiv.org/abs/2601.03660v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03660v1) | <details><summary>Code ...</summary><p>Code and dataset are available at https://github.com/L-J-Yuan/MGPC</p></details> |
+| **[ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering](https://arxiv.org/abs/2510.04514v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2510.04514v2) | <details><summary>NeurI...</summary><p>NeurIPS 2025 Multimodal Algorithmic Reasoning Workshop (https://marworkshop.github.io/neurips25/) (Oral Paper Presentation)</p></details> |
+| **[Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents](https://arxiv.org/abs/2601.03515v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03515v1) | 34 pages, 18 figures |
+| **[VNU-Bench: A Benchmarking Dataset for Multi-Source Multimodal News Video Understanding](https://arxiv.org/abs/2601.03434v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03434v1) |  |
+| **[GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models](https://arxiv.org/abs/2601.03416v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03416v1) |  |
 | **[A Versatile Multimodal Agent for Multimedia Content Generation](https://arxiv.org/abs/2601.03250v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03250v1) |  |
 | **[LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://arxiv.org/abs/2508.17394v4)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2508.17394v4) |  |
 | **[UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision](https://arxiv.org/abs/2601.03193v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03193v1) |  |
 | **[AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation](https://arxiv.org/abs/2601.03191v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03191v1) |  |
 | **[Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs](https://arxiv.org/abs/2601.03100v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03100v1) |  |
+| **[Listen to Rhythm, Choose Movements: Autoregressive Multimodal Dance Generation via Diffusion and Mamba with Decoupled Dance Dataset](https://arxiv.org/abs/2601.03323v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03323v1) | 12 pages, 13 figures |
 | **[ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2510.16753v2)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2510.16753v2) | 14 pages, 5 figures |
-| **[MMFormalizer: Multimodal Autoformalization in the Wild](https://arxiv.org/abs/2601.03017v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03017v1) | Technical Report |
-| **[Protecting multimodal large language models against misleading visualizations](https://arxiv.org/abs/2502.20503v5)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2502.20503v5) | <details><summary>Prepr...</summary><p>Preprint. Code and data available at https://github.com/UKPLab/arxiv2025-misleading-visualizations</p></details> |
-| **[CVBench: Benchmarking Cross-Video Synergies for Complex Multimodal Reasoning](https://arxiv.org/abs/2508.19542v4)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2508.19542v4) |  |
-| **[Rationale-Grounded In-Context Learning for Time Series Reasoning with Multimodal Large Language Models](https://arxiv.org/abs/2601.02968v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.02968v1) |  |
-| **[PrismVAU: Prompt-Refined Inference System for Multimodal Video Anomaly Understanding](https://arxiv.org/abs/2601.02927v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.02927v1) | <details><summary>This ...</summary><p>This paper has been accepted to the 6th Workshop on Real-World Surveillance: Applications and Challenges (WACV 2025)</p></details> |
-| **[MemeMind: A Large-Scale Multimodal Dataset with Chain-of-Thought Reasoning for Harmful Meme Detection](https://arxiv.org/abs/2506.18919v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2506.18919v3) |  |
-| **[SketchThinker-R1: Towards Efficient Sketch-Style Reasoning in Large Multimodal Models](https://arxiv.org/abs/2601.02825v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.02825v1) | 28 pages, 11 figures |
-| **[FCMBench: A Comprehensive Financial Credit Multimodal Benchmark for Real-world Applications](https://arxiv.org/abs/2601.00150v2)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.00150v2) |  |
-| **[E$^2$AT: Multimodal Jailbreak Defense via Dynamic Joint Optimization for Multimodal Large Language Models](https://arxiv.org/abs/2503.04833v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2503.04833v3) |  |
-| **[MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations](https://arxiv.org/abs/2506.20100v2)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2506.20100v2) | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Uni-FinLLM: A Unified Multimodal Large Language Model with Modular Task Heads for Micro-Level Stock Prediction and Macro-Level Systemic Risk Assessment](https://arxiv.org/abs/2601.02677v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.02677v1) |  |
-| **[Topological Perspectives on Optimal Multimodal Embedding Spaces](https://arxiv.org/abs/2405.18867v2)** | 2026-01-05 | [Go](https://papers.cool/arxiv/2405.18867v2) | <details><summary>This ...</summary><p>This manuscript contains substantive technical inaccuracies and an incomplete treatment of the stated topic. Subsequent developments and a reassessment of the problem indicate that the scope and framing of the work do not adequately reflect the current state of research, and the analysis is therefore incomplete and outdated</p></details> |
-| **[Enhancing Multimodal Reasoning via Latent Refocusing](https://arxiv.org/abs/2511.02360v2)** | 2026-01-05 | [Go](https://papers.cool/arxiv/2511.02360v2) |  |
-| **[The Artificial Intelligence Cognitive Examination: A Survey on the Evolution of Multimodal Evaluation from Recognition to Reasoning](https://arxiv.org/abs/2510.04141v2)** | 2026-01-05 | [Go](https://papers.cool/arxiv/2510.04141v2) |  |
 
 ## AI Agent
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03872v1) |  |
+| **[O-Researcher: An Open Ended Deep Research Model via Multi-Agent Distillation and Agentic RL](https://arxiv.org/abs/2601.03743v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03743v1) | 22 pages |
+| **[Architecting Agentic Communities using Design Patterns](https://arxiv.org/abs/2601.03624v1)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2601.03624v1) | <details><summary>suppl...</summary><p>supplementary material accompanying this paper is also attached .. its title is "Complete Agentic AI Design Patterns Catalogue"</p></details> |
+| **[Monadic Context Engineering](https://arxiv.org/abs/2512.22431v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2512.22431v2) |  |
+| **[The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://arxiv.org/abs/2506.04301v2)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2506.04301v2) | <details><summary>Accep...</summary><p>Accepted for publication at the 32nd IEEE International Symposium on High-Performance Computer Architecture (HPCA-32), 2026</p></details> |
 | **[MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03236v1) |  |
 | **[The Fake Friend Dilemma: Trust and the Political Economy of Conversational AI](https://arxiv.org/abs/2601.03222v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03222v1) | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
 | **[Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey](https://arxiv.org/abs/2601.03181v1)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.03181v1) | <details><summary>5 fig...</summary><p>5 figures, 7 tables, IEEE COMST</p></details> |
@@ -68,17 +73,12 @@ labels: documentation
 | **[VisualActBench: Can VLMs See and Act like a Human?](https://arxiv.org/abs/2512.09907v2)** | 2026-01-04 | [Go](https://papers.cool/arxiv/2512.09907v2) |  |
 | **[AI Compute Architecture and Evolution Trends](https://arxiv.org/abs/2508.21394v3)** | 2026-01-04 | [Go](https://papers.cool/arxiv/2508.21394v3) | <details><summary>33 pa...</summary><p>33 pages, 17 figures, 2 Tables</p></details> |
 | **[RoboPhD: Self-Improving Text-to-SQL Through Autonomous Agent Evolution](https://arxiv.org/abs/2601.01126v1)** | 2026-01-03 | [Go](https://papers.cool/arxiv/2601.01126v1) | 18 pages, 3 figures |
-| **[Harm in AI-Driven Societies: An Audit of Toxicity Adoption on Chirper.ai](https://arxiv.org/abs/2601.01090v1)** | 2026-01-03 | [Go](https://papers.cool/arxiv/2601.01090v1) |  |
-| **[Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows](https://arxiv.org/abs/2512.13168v3)** | 2026-01-03 | [Go](https://papers.cool/arxiv/2512.13168v3) |  |
-| **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](https://arxiv.org/abs/2601.00753v1)** | 2026-01-02 | [Go](https://papers.cool/arxiv/2601.00753v1) | <details><summary>Prepr...</summary><p>Preprint. Under anonymous peer review. 5 pages, 5 figures</p></details> |
-| **[The Vibe-Check Protocol: Quantifying Cognitive Offloading in AI Programming](https://arxiv.org/abs/2601.02410v1)** | 2026-01-02 | [Go](https://papers.cool/arxiv/2601.02410v1) |  |
-| **[Multi-Agent Coordinated Rename Refactoring](https://arxiv.org/abs/2601.00482v1)** | 2026-01-01 | [Go](https://papers.cool/arxiv/2601.00482v1) |  |
 
 ## LLM Inference
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v4)** | 2026-01-07 | [Go](https://papers.cool/arxiv/2512.10411v4) |  |
 | **[Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2502.16886v3) | Substantial revision |
-| **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2512.10411v3) |  |
 | **[Communication Compression for Tensor Parallel LLM Inference](https://arxiv.org/abs/2411.09510v3)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2411.09510v3) |  |
 | **[Making MoE-based LLM Inference Resilient with Tarragon](https://arxiv.org/abs/2601.01310v2)** | 2026-01-06 | [Go](https://papers.cool/arxiv/2601.01310v2) |  |
 | **[LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference](https://arxiv.org/abs/2601.02569v1)** | 2026-01-05 | [Go](https://papers.cool/arxiv/2601.02569v1) |  |
