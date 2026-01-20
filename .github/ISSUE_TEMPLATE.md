@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 20, 2026
+title: Latest 20 Papers - January 21, 2026
 labels: documentation
 ---
 ## LLM
