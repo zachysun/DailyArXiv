@@ -1,34 +1,41 @@
 ---
-title: Latest 20 Papers - February 23, 2026
+title: Latest 20 Papers - February 24, 2026
 labels: documentation
 ---
 ## LLM
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
-| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17622v1) |  |
-| **[The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR$\rightarrow$LLM Pipelines?](https://arxiv.org/abs/2602.17598v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17598v1) | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 7 tables</p></details> |
-| **[CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](https://arxiv.org/abs/2509.22075v4)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2509.22075v4) |  |
-| **[ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment](https://arxiv.org/abs/2602.17560v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17560v1) | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2602.17550v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17550v1) |  |
-| **[KLong: Training LLM Agent for Extremely Long-horizon Tasks](https://arxiv.org/abs/2602.17547v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17547v1) |  |
-| **[Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems](https://arxiv.org/abs/2602.17542v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17542v1) |  |
-| **[Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation](https://arxiv.org/abs/2602.17529v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17529v1) |  |
-| **[When Models Ignore Definitions: Measuring Semantic Override Hallucinations in LLM Reasoning](https://arxiv.org/abs/2602.17520v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17520v1) |  |
-| **[What Do LLMs Associate with Your Name? A Human-Centered Black-Box Audit of Personal Data](https://arxiv.org/abs/2602.17483v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17483v1) |  |
-| **[ShadAR: LLM-driven shader generation to transform visual perception in Augmented Reality](https://arxiv.org/abs/2602.17481v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17481v1) |  |
-| **[Small LLMs for Medical NLP: a Systematic Analysis of Few-Shot, Constraint Decoding, Fine-Tuning and Continual Pre-Training in Italian](https://arxiv.org/abs/2602.17475v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17475v1) | <details><summary>Paper...</summary><p>Paper Accepted at LREC 2026</p></details> |
-| **[DAVE: A Policy-Enforcing LLM Spokesperson for Secure Multi-Document Data Sharing](https://arxiv.org/abs/2602.17413v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17413v1) |  |
-| **[LLM Fingerprinting via Semantically Conditioned Watermarks](https://arxiv.org/abs/2505.16723v3)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2505.16723v3) |  |
-| **[SCOPE: Selective Conformal Optimized Pairwise LLM Judging](https://arxiv.org/abs/2602.13110v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.13110v2) |  |
-| **[Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers](https://arxiv.org/abs/2602.17410v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17410v1) |  |
-| **[Sci2Pol: Evaluating and Fine-tuning LLMs on Scientific-to-Policy Brief Generation](https://arxiv.org/abs/2509.21493v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2509.21493v2) |  |
-| **[DistillNote: Toward a Functional Evaluation Framework of LLM-Generated Clinical Note Summaries](https://arxiv.org/abs/2506.16777v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2506.16777v2) |  |
-| **[Same Meaning, Different Scores: Lexical and Syntactic Sensitivity in LLM Evaluation](https://arxiv.org/abs/2602.17316v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17316v1) | <details><summary>Accep...</summary><p>Accepted at LREC 2026</p></details> |
-| **[Quantifying and Mitigating Socially Desirable Responding in LLMs: A Desirability-Matched Graded Forced-Choice Psychometric Study](https://arxiv.org/abs/2602.17262v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17262v1) |  |
+| **[AI-Wrapped: Participatory, Privacy-Preserving Measurement of Longitudinal LLM Use In-the-Wild](https://arxiv.org/abs/2602.18415v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18415v1) |  |
+| **["How Do I ...?": Procedural Questions Predominate Student-LLM Chatbot Conversations](https://arxiv.org/abs/2602.18372v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18372v1) | 14 pages, 2 figures |
+| **[A Probabilistic Framework for LLM-Based Model Discovery](https://arxiv.org/abs/2602.18266v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18266v1) |  |
+| **[Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering](https://arxiv.org/abs/2602.18249v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18249v1) |  |
+| **[Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning](https://arxiv.org/abs/2602.18232v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18232v1) |  |
+| **[[Re] Benchmarking LLM Capabilities in Negotiation through Scoreable Games](https://arxiv.org/abs/2602.18230v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18230v1) | <details><summary>Accep...</summary><p>Accepted for publication at Transactions on Machine Learning Research (TMLR) and MLRC Journal Track, 2025. Code available at: https://github.com/joshrosie/FACT29</p></details> |
+| **[ExPairT-LLM: Exact Learning for LLM Code Selection by Pairwise Queries](https://arxiv.org/abs/2511.10855v3)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2511.10855v3) |  |
+| **[Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders](https://arxiv.org/abs/2506.23951v2)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2506.23951v2) |  |
+| **[Topic Modeling with Fine-tuning LLMs and Bag of Sentences](https://arxiv.org/abs/2408.03099v2)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2408.03099v2) | <details><summary>This ...</summary><p>This is the submitted journal version of enhanced with the novel fine-tuning part of "Efficient and Flexible Topic Modeling using Pretrained Embeddings and Bag of Sentences'' which appeared at the International Conference on Agents and Artificial Intelligence(ICAART) in 2024</p></details> |
+| **[SeedFlood: A Step Toward Scalable Decentralized Training of LLMs](https://arxiv.org/abs/2602.18181v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18181v1) |  |
+| **[LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?](https://arxiv.org/abs/2602.16902v2)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.16902v2) |  |
+| **[The Statistical Signature of LLMs](https://arxiv.org/abs/2602.18152v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18152v1) |  |
+| **[Detecting Contextual Hallucinations in LLMs with Frequency-Aware Attention](https://arxiv.org/abs/2602.18145v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18145v1) | 25 pages, 10 figures |
+| **[Agentic Adversarial QA for Improving Domain-Specific LLMs](https://arxiv.org/abs/2602.18137v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18137v1) | 9 pages, 1 Figure |
+| **[Perceived Political Bias in LLMs Reduces Persuasive Abilities](https://arxiv.org/abs/2602.18092v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18092v1) | 39 pages, 10 figures |
+| **[Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback](https://arxiv.org/abs/2506.03106v6)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2506.03106v6) | <details><summary>57 pa...</summary><p>57 pages, updated with new experimental results and implementation details</p></details> |
+| **[Towards LLM-centric Affective Visual Customization via Efficient and Precise Emotion Manipulating](https://arxiv.org/abs/2602.18016v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18016v1) |  |
+| **[NIMMGen: Learning Neural-Integrated Mechanistic Digital Twins with LLMs](https://arxiv.org/abs/2602.18008v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18008v1) | 19 pages, 6 figures |
+| **[Through the Judge's Eyes: Inferred Thinking Traces Improve Reliability of LLM Raters](https://arxiv.org/abs/2510.25860v2)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2510.25860v2) |  |
+| **[iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification](https://arxiv.org/abs/2601.10609v4)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2601.10609v4) |  |
 
 ## Multimodal
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[BLM-Guard: Explainable Multimodal Ad Moderation with Chain-of-Thought and Policy-Aligned Rewards](https://arxiv.org/abs/2602.18193v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18193v1) | <details><summary>7 pag...</summary><p>7 pages, 3 figures. To appear in AAAI 2026</p></details> |
+| **[FENCE: A Financial and Multimodal Jailbreak Detection Dataset](https://arxiv.org/abs/2602.18154v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18154v1) | <details><summary>lrec ...</summary><p>lrec 2026 accepted paper</p></details> |
+| **[Scaling Audio-Text Retrieval with Multimodal Large Language Models](https://arxiv.org/abs/2602.18010v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18010v1) | Technical Report |
+| **[MUOT_3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method](https://arxiv.org/abs/2602.18006v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18006v1) |  |
+| **[M3OOD: Automatic Selection of Multimodal OOD Detectors](https://arxiv.org/abs/2508.11936v2)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2508.11936v2) |  |
+| **[A Single Image and Multimodality Is All You Need for Novel View Synthesis](https://arxiv.org/abs/2602.17909v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.17909v1) |  |
+| **[Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2602.17869v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17869v1) |  |
 | **[CT-Bench: A Benchmark for Multimodal Lesion Understanding in Computed Tomography](https://arxiv.org/abs/2602.14879v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.14879v2) |  |
 | **[Canonicalizing Multimodal Contrastive Representation Learning](https://arxiv.org/abs/2602.17584v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17584v1) | 78 pages, 57 figures |
 | **[How Multimodal Large Language Models Support Access to Visual Information: A Diary Study With Blind and Low Vision People](https://arxiv.org/abs/2602.13469v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.13469v2) | <details><summary>24 pa...</summary><p>24 pages, 17 figures, 7 tables, appendix section, to appear main track CHI 2026</p></details> |
@@ -42,17 +49,18 @@ labels: documentation
 | **[Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs](https://arxiv.org/abs/2510.09201v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2510.09201v2) | ICLR 2026 |
 | **[BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning](https://arxiv.org/abs/2602.17168v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17168v1) | 25 pages, 10 figures |
 | **[3D Scene Rendering with Multimodal Gaussian Splatting](https://arxiv.org/abs/2602.17124v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17124v1) |  |
-| **[Projective Psychological Assessment of Large Multimodal Models Using Thematic Apperception Tests](https://arxiv.org/abs/2602.17108v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17108v1) |  |
-| **[Spatio-temporal dual-stage hypergraph MARL for human-centric multimodal corridor traffic signal control](https://arxiv.org/abs/2602.17068v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17068v1) |  |
-| **[Multimodal Wireless Foundation Models](https://arxiv.org/abs/2511.15162v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2511.15162v2) |  |
-| **[Structural Prognostic Event Modeling for Multimodal Cancer Survival Analysis](https://arxiv.org/abs/2512.01116v2)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2512.01116v2) | 36 pages, 14 Figures |
-| **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.08755v3) |  |
-| **[IMPACT: Behavioral Intention-aware Multimodal Trajectory Prediction with Adaptive Context Trimming](https://arxiv.org/abs/2504.09103v4)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2504.09103v4) | <details><summary>accep...</summary><p>accepted by IEEE Robotics and Automation Letters</p></details> |
-| **[MMA: Multimodal Memory Agent](https://arxiv.org/abs/2602.16493v1)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.16493v1) |  |
 
 ## AI Agent
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[CMind: An AI Agent for Localizing C Memory Bugs](https://arxiv.org/abs/2601.14434v2)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2601.14434v2) | <details><summary>4 pag...</summary><p>4 pages, 2 figures. To be published in 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)</p></details> |
+| **[Imitating AI agents increase diversity in homogeneous information environments but can reduce it in heterogeneous ones](https://arxiv.org/abs/2503.16021v4)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2503.16021v4) | <details><summary>53 pa...</summary><p>53 pages, 13 figures, 4 tables; v2: corrected typographical errors, streamlined language, updated abstract, added supplementary information; v3: restructured appendix, added temperature and embeddings sensitivity checks; v4: additional LLM models introduced, restructured manuscript, additional robustness checks</p></details> |
+| **[EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments](https://arxiv.org/abs/2602.16179v3)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.16179v3) |  |
+| **[Mining Type Constructs Using Patterns in AI-Generated Code](https://arxiv.org/abs/2602.17955v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.17955v1) |  |
+| **[Beyond Mimicry to Contextual Guidance: Knowledge Distillation for Interactive AI](https://arxiv.org/abs/2408.07238v3)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2408.07238v3) |  |
+| **[Exploring The Impact Of Proactive Generative AI Agent Roles In Time-Sensitive Collaborative Problem-Solving Tasks](https://arxiv.org/abs/2602.17864v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17864v1) | <details><summary>Publi...</summary><p>Published in Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI'26)</p></details> |
+| **[The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy](https://arxiv.org/abs/2510.26752v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2510.26752v2) |  |
+| **[The 2025 AI Agent Index: Documenting Technical and Safety Features of Deployed Agentic AI Systems](https://arxiv.org/abs/2602.17753v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17753v1) |  |
 | **[FAMOSE: A ReAct Approach to Automated Feature Discovery](https://arxiv.org/abs/2602.17641v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17641v1) | 23 pages, 6 figures |
 | **[Systems Security Foundations for Agentic Computing](https://arxiv.org/abs/2512.01295v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2512.01295v2) |  |
 | **[Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2410.13957v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2410.13957v2) | <details><summary>This ...</summary><p>This version has been updated to reflect a copy of Master's thesis submitted Jan 24, 2025 for degree date Feb 2025 (https://hdl.handle.net/1721.1/158960). We recommend readers to read revised version incorporating a different agent pipeline and methodological approach which is available at: arXiv:2508.15119</p></details> |
@@ -60,23 +68,16 @@ labels: documentation
 | **[From Labor to Collaboration: A Methodological Experiment Using AI Agents to Augment Research Perspectives in Taiwan's Humanities and Social Sciences](https://arxiv.org/abs/2602.17221v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17221v1) | also in Chinese |
 | **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: Structured Cognitive Loop with a Governance Layer](https://arxiv.org/abs/2511.17673v5)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2511.17673v5) | <details><summary>The S...</summary><p>The SCL diagram has been revised for greater clarity</p></details> |
 | **[VERA-MH Concept Paper](https://arxiv.org/abs/2510.15297v3)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2510.15297v3) |  |
-| **[EnterpriseBench Corecraft: Training Generalizable Agents on High-Fidelity RL Environments](https://arxiv.org/abs/2602.16179v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.16179v2) |  |
 | **[Autonomous Business System via Neuro-symbolic AI](https://arxiv.org/abs/2601.15599v2)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2601.15599v2) | IEEE SysCon 2026 |
 | **[Towards a Science of AI Agent Reliability](https://arxiv.org/abs/2602.16666v1)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.16666v1) |  |
 | **[Agentic AI, Medical Morality, and the Transformation of the Patient-Physician Relationship](https://arxiv.org/abs/2602.16553v1)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.16553v1) | 25 pages |
 | **[Mastering Olympiad-Level Physics with Artificial Intelligence](https://arxiv.org/abs/2511.10515v2)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2511.10515v2) | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Content from the previous article 2510.01249 is included</p></details> |
 | **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v2)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.12207v2) | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
-| **[Cocoa: Co-Planning and Co-Execution with AI Agents](https://arxiv.org/abs/2412.10999v4)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2412.10999v4) | CHI 2026 paper |
-| **[Learning Personalized Agents from Human Feedback](https://arxiv.org/abs/2602.16173v1)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.16173v1) |  |
-| **[Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook](https://arxiv.org/abs/2602.14299v2)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.14299v2) |  |
-| **[Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence](https://arxiv.org/abs/2602.15019v2)** | 2026-02-17 | [Go](https://papers.cool/arxiv/2602.15019v2) |  |
-| **[Developing AI Agents with Simulated Data: Why, what, and how?](https://arxiv.org/abs/2602.15816v1)** | 2026-02-17 | [Go](https://papers.cool/arxiv/2602.15816v1) |  |
-| **[Your AI Bosses Are Still Prejudiced: The Emergence of Stereotypes in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2508.19919v2)** | 2026-02-17 | [Go](https://papers.cool/arxiv/2508.19919v2) |  |
-| **[A Comparative Analysis of Social Network Topology in Reddit and Moltbook](https://arxiv.org/abs/2602.13920v2)** | 2026-02-17 | [Go](https://papers.cool/arxiv/2602.13920v2) |  |
 
 ## LLM Inference
 | **Title** | **Date** | **Cool Paper** | **Comment** |
 | --- | --- | --- | --- |
+| **[Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering](https://arxiv.org/abs/2602.18249v1)** | 2026-02-20 | [Go](https://papers.cool/arxiv/2602.18249v1) |  |
 | **[Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model](https://arxiv.org/abs/2509.07825v2)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2509.07825v2) | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM)</p></details> |
 | **[Privacy-Preserving Mechanisms Enable Cheap Verifiable Inference of LLMs](https://arxiv.org/abs/2602.17223v1)** | 2026-02-19 | [Go](https://papers.cool/arxiv/2602.17223v1) |  |
 | **[Privacy-Aware Split Inference with Speculative Decoding for Large Language Models over Wide-Area Networks](https://arxiv.org/abs/2602.16760v1)** | 2026-02-18 | [Go](https://papers.cool/arxiv/2602.16760v1) | <details><summary>21 pa...</summary><p>21 pages, 21 tables, no figures</p></details> |
@@ -96,7 +97,6 @@ labels: documentation
 | **[ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System](https://arxiv.org/abs/2602.13692v1)** | 2026-02-14 | [Go](https://papers.cool/arxiv/2602.13692v1) |  |
 | **[ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference](https://arxiv.org/abs/2511.10645v2)** | 2026-02-14 | [Go](https://papers.cool/arxiv/2511.10645v2) | <details><summary>ICLR ...</summary><p>ICLR 2026 | Project page: https://paroquant.z-lab.ai | GitHub: https://github.com/z-lab/paroquant</p></details> |
 | **[LO-BCQ: Block Clustered Quantization for 4-bit (W4A4) LLM Inference](https://arxiv.org/abs/2502.05376v2)** | 2026-02-13 | [Go](https://papers.cool/arxiv/2502.05376v2) |  |
-| **[Characterize LSM-tree Compaction Performance via On-Device LLM Inference](https://arxiv.org/abs/2602.12669v1)** | 2026-02-13 | [Go](https://papers.cool/arxiv/2602.12669v1) |  |
 
 ## LLM Memory
 | **Title** | **Date** | **Cool Paper** | **Comment** |
